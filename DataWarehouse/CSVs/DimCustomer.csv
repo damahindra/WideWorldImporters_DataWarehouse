@@ -1,0 +1,664 @@
+CustomerID,CustomerName,CustomerPhoneNumber,CustomerFaxNumber,CustomerCategory,CustomerBuyingGroup,CustomerCity,CustomerStateProvinceCode,CustomerStateProvince,CustomerCountry,CustomerContinent,CustomerRegion,CustomerSubregion
+1,Tailspin Toys (Head Office),(308) 555-0100,(308) 555-0101,Novelty Shop,Tailspin Toys,Lisco,NE,Nebraska,United States,North America,Americas,Northern America
+2,Tailspin Toys (Sylvanite, MT),(406) 555-0100,(406) 555-0101,Novelty Shop,Tailspin Toys,Sylvanite,MT,Montana,United States,North America,Americas,Northern America
+3,Tailspin Toys (Peeples Valley, AZ),(480) 555-0100,(480) 555-0101,Novelty Shop,Tailspin Toys,Peeples Valley,AZ,Arizona,United States,North America,Americas,Northern America
+4,Tailspin Toys (Medicine Lodge, KS),(316) 555-0100,(316) 555-0101,Novelty Shop,Tailspin Toys,Medicine Lodge,KS,Kansas,United States,North America,Americas,Northern America
+5,Tailspin Toys (Gasport, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Gasport,NY,New York,United States,North America,Americas,Northern America
+6,Tailspin Toys (Jessie, ND),(701) 555-0100,(701) 555-0101,Novelty Shop,Tailspin Toys,Jessie,ND,North Dakota,United States,North America,Americas,Northern America
+7,Tailspin Toys (Frankewing, TN),(423) 555-0100,(423) 555-0101,Novelty Shop,Tailspin Toys,Frankewing,TN,Tennessee,United States,North America,Americas,Northern America
+8,Tailspin Toys (Bow Mar, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Tailspin Toys,Bow Mar,CO,Colorado,United States,North America,Americas,Northern America
+9,Tailspin Toys (Netcong, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Tailspin Toys,Netcong,NJ,New Jersey,United States,North America,Americas,Northern America
+10,Tailspin Toys (Wimbledon, ND),(701) 555-0100,(701) 555-0101,Novelty Shop,Tailspin Toys,Wimbledon,ND,North Dakota,United States,North America,Americas,Northern America
+11,Tailspin Toys (Devault, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Tailspin Toys,Devault,PA,Pennsylvania,United States,North America,Americas,Northern America
+12,Tailspin Toys (Biscay, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Tailspin Toys,Biscay,MN,Minnesota,United States,North America,Americas,Northern America
+13,Tailspin Toys (Stonefort, IL),(217) 555-0100,(217) 555-0101,Novelty Shop,Tailspin Toys,Stonefort,IL,Illinois,United States,North America,Americas,Northern America
+14,Tailspin Toys (Long Meadow, MD),(240) 555-0100,(240) 555-0101,Novelty Shop,Tailspin Toys,Long Meadow,MD,Maryland,United States,North America,Americas,Northern America
+15,Tailspin Toys (Batson, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,Batson,TX,Texas,United States,North America,Americas,Northern America
+16,Tailspin Toys (Coney Island, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Tailspin Toys,Coney Island,MO,Missouri,United States,North America,Americas,Northern America
+17,Tailspin Toys (East Fultonham, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Tailspin Toys,East Fultonham,OH,Ohio,United States,North America,Americas,Northern America
+18,Tailspin Toys (Goffstown, NH),(603) 555-0100,(603) 555-0101,Novelty Shop,Tailspin Toys,Goffstown,NH,New Hampshire,United States,North America,Americas,Northern America
+19,Tailspin Toys (Lemeta, AK),(907) 555-0100,(907) 555-0101,Novelty Shop,Tailspin Toys,Lemeta,AK,Alaska,United States,North America,Americas,Northern America
+20,Tailspin Toys (College Place, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,College Place,WA,Washington,United States,North America,Americas,Northern America
+21,Tailspin Toys (Tresckow, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Tailspin Toys,Tresckow,PA,Pennsylvania,United States,North America,Americas,Northern America
+22,Tailspin Toys (Ward Ridge, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Tailspin Toys,Ward Ridge,FL,Florida,United States,North America,Americas,Northern America
+23,Tailspin Toys (Ikatan, AK),(907) 555-0100,(907) 555-0101,Novelty Shop,Tailspin Toys,Ikatan,AK,Alaska,United States,North America,Americas,Northern America
+24,Tailspin Toys (Dundarrach, NC),(252) 555-0100,(252) 555-0101,Novelty Shop,Tailspin Toys,Dundarrach,NC,North Carolina,United States,North America,Americas,Northern America
+25,Tailspin Toys (Avenal, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,Avenal,CA,California,United States,North America,Americas,Northern America
+26,Tailspin Toys (Hedrick, IA),(319) 555-0100,(319) 555-0101,Novelty Shop,Tailspin Toys,Hedrick,IA,Iowa,United States,North America,Americas,Northern America
+27,Tailspin Toys (Bowlus, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Tailspin Toys,Bowlus,MN,Minnesota,United States,North America,Americas,Northern America
+28,Tailspin Toys (North Ridge, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,North Ridge,NY,New York,United States,North America,Americas,Northern America
+29,Tailspin Toys (Eulaton, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Tailspin Toys,Eulaton,AL,Alabama,United States,North America,Americas,Northern America
+30,Tailspin Toys (Koontzville, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Koontzville,WA,Washington,United States,North America,Americas,Northern America
+31,Tailspin Toys (Lake Stevens, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Lake Stevens,WA,Washington,United States,North America,Americas,Northern America
+32,Tailspin Toys (Maypearl, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,Maypearl,TX,Texas,United States,North America,Americas,Northern America
+33,Tailspin Toys (Boyden Arbor, SC),(803) 555-0100,(803) 555-0101,Novelty Shop,Tailspin Toys,Boyden Arbor,SC,South Carolina,United States,North America,Americas,Northern America
+34,Tailspin Toys (Dallardsville, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,Dallardsville,TX,Texas,United States,North America,Americas,Northern America
+35,Tailspin Toys (Slanesville, WV),(304) 555-0100,(304) 555-0101,Novelty Shop,Tailspin Toys,Slanesville,WV,West Virginia,United States,North America,Americas,Northern America
+36,Tailspin Toys (Ekron, KY),(270) 555-0100,(270) 555-0101,Novelty Shop,Tailspin Toys,Ekron,KY,Kentucky,United States,North America,Americas,Northern America
+37,Tailspin Toys (Kerby, OR),(458) 555-0100,(458) 555-0101,Novelty Shop,Tailspin Toys,Kerby,OR,Oregon,United States,North America,Americas,Northern America
+38,Tailspin Toys (Airport Drive, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Tailspin Toys,Airport Drive,MO,Missouri,United States,North America,Americas,Northern America
+39,Tailspin Toys (Diablock, KY),(270) 555-0100,(270) 555-0101,Novelty Shop,Tailspin Toys,Diablock,KY,Kentucky,United States,North America,Americas,Northern America
+40,Tailspin Toys (Impact, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,Impact,TX,Texas,United States,North America,Americas,Northern America
+41,Tailspin Toys (Olivette, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Tailspin Toys,Olivette,MO,Missouri,United States,North America,Americas,Northern America
+42,Tailspin Toys (Arietta, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Arietta,NY,New York,United States,North America,Americas,Northern America
+43,Tailspin Toys (Upper Preston, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Upper Preston,WA,Washington,United States,North America,Americas,Northern America
+44,Tailspin Toys (Amanda Park, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Amanda Park,WA,Washington,United States,North America,Americas,Northern America
+45,Tailspin Toys (Severna Park, MD),(240) 555-0100,(240) 555-0101,Novelty Shop,Tailspin Toys,Severna Park,MD,Maryland,United States,North America,Americas,Northern America
+46,Tailspin Toys (Jemison, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Tailspin Toys,Jemison,AL,Alabama,United States,North America,Americas,Northern America
+47,Tailspin Toys (Lake Hughes, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,Lake Hughes,CA,California,United States,North America,Americas,Northern America
+48,Tailspin Toys (Trentwood, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Trentwood,WA,Washington,United States,North America,Americas,Northern America
+49,Tailspin Toys (Muir, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Tailspin Toys,Muir,MI,Michigan,United States,North America,Americas,Northern America
+50,Tailspin Toys (Hambleton, WV),(304) 555-0100,(304) 555-0101,Novelty Shop,Tailspin Toys,Hambleton,WV,West Virginia,United States,North America,Americas,Northern America
+51,Tailspin Toys (Imlaystown, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Tailspin Toys,Imlaystown,NJ,New Jersey,United States,North America,Americas,Northern America
+52,Tailspin Toys (Idria, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,Idria,CA,California,United States,North America,Americas,Northern America
+53,Tailspin Toys (Nanafalia, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Tailspin Toys,Nanafalia,AL,Alabama,United States,North America,Americas,Northern America
+54,Tailspin Toys (Railroad, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Tailspin Toys,Railroad,PA,Pennsylvania,United States,North America,Americas,Northern America
+55,Tailspin Toys (Gum Branch, GA),(229) 555-0100,(229) 555-0101,Novelty Shop,Tailspin Toys,Gum Branch,GA,Georgia,United States,North America,Americas,Northern America
+56,Tailspin Toys (Royal City, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Royal City,WA,Washington,United States,North America,Americas,Northern America
+57,Tailspin Toys (Lakemore, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Tailspin Toys,Lakemore,OH,Ohio,United States,North America,Americas,Northern America
+58,Tailspin Toys (Mappsburg, VA),(276) 555-0100,(276) 555-0101,Novelty Shop,Tailspin Toys,Mappsburg,VA,Virginia,United States,North America,Americas,Northern America
+59,Tailspin Toys (Edgartown, MA),(339) 555-0100,(339) 555-0101,Novelty Shop,Tailspin Toys,Edgartown,MA,Massachusetts[E],United States,North America,Americas,Northern America
+60,Tailspin Toys (East Dailey, WV),(304) 555-0100,(304) 555-0101,Novelty Shop,Tailspin Toys,East Dailey,WV,West Virginia,United States,North America,Americas,Northern America
+61,Tailspin Toys (Fairfield Glade, TN),(423) 555-0100,(423) 555-0101,Novelty Shop,Tailspin Toys,Fairfield Glade,TN,Tennessee,United States,North America,Americas,Northern America
+62,Tailspin Toys (Great Neck Estates, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Great Neck Estates,NY,New York,United States,North America,Americas,Northern America
+63,Tailspin Toys (Stallion Springs, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,Stallion Springs,CA,California,United States,North America,Americas,Northern America
+64,Tailspin Toys (Hodgdon, ME),(207) 555-0100,(207) 555-0101,Novelty Shop,Tailspin Toys,Hodgdon,ME,Maine,United States,North America,Americas,Northern America
+65,Tailspin Toys (North Cowden, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,North Cowden,TX,Texas,United States,North America,Americas,Northern America
+66,Tailspin Toys (Madaket, MA),(339) 555-0100,(339) 555-0101,Novelty Shop,Tailspin Toys,Madaket,MA,Massachusetts[E],United States,North America,Americas,Northern America
+67,Tailspin Toys (Sentinel Butte, ND),(701) 555-0100,(701) 555-0101,Novelty Shop,Tailspin Toys,Sentinel Butte,ND,North Dakota,United States,North America,Americas,Northern America
+68,Tailspin Toys (Gardere, LA),(225) 555-0100,(225) 555-0101,Novelty Shop,Tailspin Toys,Gardere,LA,Louisiana,United States,North America,Americas,Northern America
+69,Tailspin Toys (Lytle Creek, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,Lytle Creek,CA,California,United States,North America,Americas,Northern America
+70,Tailspin Toys (New Baden, IL),(217) 555-0100,(217) 555-0101,Novelty Shop,Tailspin Toys,New Baden,IL,Illinois,United States,North America,Americas,Northern America
+71,Tailspin Toys (Good Hart, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Tailspin Toys,Good Hart,MI,Michigan,United States,North America,Americas,Northern America
+72,Tailspin Toys (Cortaro, AZ),(480) 555-0100,(480) 555-0101,Novelty Shop,Tailspin Toys,Cortaro,AZ,Arizona,United States,North America,Americas,Northern America
+73,Tailspin Toys (Cokato, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Tailspin Toys,Cokato,MN,Minnesota,United States,North America,Americas,Northern America
+74,Tailspin Toys (Indios, PR),(787) 555-0100,(787) 555-0101,Novelty Shop,Tailspin Toys,Indios,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+75,Tailspin Toys (Windsor Locks, CT),(203) 555-0100,(203) 555-0101,Novelty Shop,Tailspin Toys,Windsor Locks,CT,Connecticut,United States,North America,Americas,Northern America
+76,Tailspin Toys (Yewed, OK),(405) 555-0100,(405) 555-0101,Novelty Shop,Tailspin Toys,Yewed,OK,Oklahoma,United States,North America,Americas,Northern America
+77,Tailspin Toys (Hahira, GA),(229) 555-0100,(229) 555-0101,Novelty Shop,Tailspin Toys,Hahira,GA,Georgia,United States,North America,Americas,Northern America
+78,Tailspin Toys (Sekiu, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Sekiu,WA,Washington,United States,North America,Americas,Northern America
+79,Tailspin Toys (Page City, KS),(316) 555-0100,(316) 555-0101,Novelty Shop,Tailspin Toys,Page City,KS,Kansas,United States,North America,Americas,Northern America
+80,Tailspin Toys (Valdese, NC),(252) 555-0100,(252) 555-0101,Novelty Shop,Tailspin Toys,Valdese,NC,North Carolina,United States,North America,Americas,Northern America
+81,Tailspin Toys (Big Moose, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Big Moose,NY,New York,United States,North America,Americas,Northern America
+82,Tailspin Toys (La Cueva, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Tailspin Toys,La Cueva,NM,New Mexico,United States,North America,Americas,Northern America
+83,Tailspin Toys (Absecon, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Tailspin Toys,Absecon,NJ,New Jersey,United States,North America,Americas,Northern America
+84,Tailspin Toys (Aceitunas, PR),(787) 555-0100,(787) 555-0101,Novelty Shop,Tailspin Toys,Aceitunas,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+85,Tailspin Toys (Andrix, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Tailspin Toys,Andrix,CO,Colorado,United States,North America,Americas,Northern America
+86,Tailspin Toys (New Lexington, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Tailspin Toys,New Lexington,OH,Ohio,United States,North America,Americas,Northern America
+87,Tailspin Toys (Sauquoit, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Sauquoit,NY,New York,United States,North America,Americas,Northern America
+88,Tailspin Toys (Dracut, MA),(339) 555-0100,(339) 555-0101,Novelty Shop,Tailspin Toys,Dracut,MA,Massachusetts[E],United States,North America,Americas,Northern America
+89,Tailspin Toys (Victory Gardens, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Tailspin Toys,Victory Gardens,NJ,New Jersey,United States,North America,Americas,Northern America
+90,Tailspin Toys (Tolna, ND),(701) 555-0100,(701) 555-0101,Novelty Shop,Tailspin Toys,Tolna,ND,North Dakota,United States,North America,Americas,Northern America
+91,Tailspin Toys (Alstead, NH),(603) 555-0100,(603) 555-0101,Novelty Shop,Tailspin Toys,Alstead,NH,New Hampshire,United States,North America,Americas,Northern America
+92,Tailspin Toys (Sans Souci, SC),(803) 555-0100,(803) 555-0101,Novelty Shop,Tailspin Toys,Sans Souci,SC,South Carolina,United States,North America,Americas,Northern America
+93,Tailspin Toys (Clewiston, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Tailspin Toys,Clewiston,FL,Florida,United States,North America,Americas,Northern America
+94,Tailspin Toys (Cheyenne Wells, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Tailspin Toys,Cheyenne Wells,CO,Colorado,United States,North America,Americas,Northern America
+95,Tailspin Toys (Lavon, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,Lavon,TX,Texas,United States,North America,Americas,Northern America
+96,Tailspin Toys (South La Paloma, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,South La Paloma,TX,Texas,United States,North America,Americas,Northern America
+97,Tailspin Toys (Manchester Center, VT),(802) 555-0100,(802) 555-0101,Novelty Shop,Tailspin Toys,Manchester Center,VT,Vermont,United States,North America,Americas,Northern America
+98,Tailspin Toys (El Centro, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,El Centro,CA,California,United States,North America,Americas,Northern America
+99,Tailspin Toys (Guin, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Tailspin Toys,Guin,AL,Alabama,United States,North America,Americas,Northern America
+100,Tailspin Toys (Tunnelhill, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Tailspin Toys,Tunnelhill,PA,Pennsylvania,United States,North America,Americas,Northern America
+101,Tailspin Toys (Cundiyo, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Tailspin Toys,Cundiyo,NM,New Mexico,United States,North America,Americas,Northern America
+102,Tailspin Toys (Fieldbrook, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,Fieldbrook,CA,California,United States,North America,Americas,Northern America
+103,Tailspin Toys (Kalvesta, KS),(316) 555-0100,(316) 555-0101,Novelty Shop,Tailspin Toys,Kalvesta,KS,Kansas,United States,North America,Americas,Northern America
+104,Tailspin Toys (Wallagrass, ME),(207) 555-0100,(207) 555-0101,Novelty Shop,Tailspin Toys,Wallagrass,ME,Maine,United States,North America,Americas,Northern America
+105,Tailspin Toys (Tomnolen, MS),(228) 555-0100,(228) 555-0101,Novelty Shop,Tailspin Toys,Tomnolen,MS,Mississippi,United States,North America,Americas,Northern America
+106,Tailspin Toys (Tumacacori, AZ),(480) 555-0100,(480) 555-0101,Novelty Shop,Tailspin Toys,Tumacacori,AZ,Arizona,United States,North America,Americas,Northern America
+107,Tailspin Toys (Glen Avon, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,Glen Avon,CA,California,United States,North America,Americas,Northern America
+108,Tailspin Toys (Bernie, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Tailspin Toys,Bernie,MO,Missouri,United States,North America,Americas,Northern America
+109,Tailspin Toys (South Laguna, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,South Laguna,CA,California,United States,North America,Americas,Northern America
+110,Tailspin Toys (North Crows Nest, IN),(219) 555-0100,(219) 555-0101,Novelty Shop,Tailspin Toys,North Crows Nest,IN,Indiana,United States,North America,Americas,Northern America
+111,Tailspin Toys (Oriole Beach, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Tailspin Toys,Oriole Beach,FL,Florida,United States,North America,Americas,Northern America
+112,Tailspin Toys (Sallyards, KS),(316) 555-0100,(316) 555-0101,Novelty Shop,Tailspin Toys,Sallyards,KS,Kansas,United States,North America,Americas,Northern America
+113,Tailspin Toys (Dahlia, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Tailspin Toys,Dahlia,NM,New Mexico,United States,North America,Americas,Northern America
+114,Tailspin Toys (Cherry Grove Beach, SC),(803) 555-0100,(803) 555-0101,Novelty Shop,Tailspin Toys,Cherry Grove Beach,SC,South Carolina,United States,North America,Americas,Northern America
+115,Tailspin Toys (Bethania, NC),(252) 555-0100,(252) 555-0101,Novelty Shop,Tailspin Toys,Bethania,NC,North Carolina,United States,North America,Americas,Northern America
+116,Tailspin Toys (Rafael CapÛ, PR),(787) 555-0100,(787) 555-0101,Novelty Shop,Tailspin Toys,Rafael CapÛ,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+117,Tailspin Toys (Scofield, UT),(385) 555-0100,(385) 555-0101,Novelty Shop,Tailspin Toys,Scofield,UT,Utah,United States,North America,Americas,Northern America
+118,Tailspin Toys (Vassalboro, ME),(207) 555-0100,(207) 555-0101,Novelty Shop,Tailspin Toys,Vassalboro,ME,Maine,United States,North America,Americas,Northern America
+119,Tailspin Toys (Statenville, GA),(229) 555-0100,(229) 555-0101,Novelty Shop,Tailspin Toys,Statenville,GA,Georgia,United States,North America,Americas,Northern America
+120,Tailspin Toys (Bratenahl, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Tailspin Toys,Bratenahl,OH,Ohio,United States,North America,Americas,Northern America
+121,Tailspin Toys (Elrosa, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Tailspin Toys,Elrosa,MN,Minnesota,United States,North America,Americas,Northern America
+122,Tailspin Toys (McClave, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Tailspin Toys,McClave,CO,Colorado,United States,North America,Americas,Northern America
+123,Tailspin Toys (Roe Park, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Roe Park,NY,New York,United States,North America,Americas,Northern America
+124,Tailspin Toys (Hanoverton, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Tailspin Toys,Hanoverton,OH,Ohio,United States,North America,Americas,Northern America
+125,Tailspin Toys (Annamoriah, WV),(304) 555-0100,(304) 555-0101,Novelty Shop,Tailspin Toys,Annamoriah,WV,West Virginia,United States,North America,Americas,Northern America
+126,Tailspin Toys (Francis Mills, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Tailspin Toys,Francis Mills,NJ,New Jersey,United States,North America,Americas,Northern America
+127,Tailspin Toys (Point Roberts, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Point Roberts,WA,Washington,United States,North America,Americas,Northern America
+128,Tailspin Toys (East Portal, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Tailspin Toys,East Portal,CO,Colorado,United States,North America,Americas,Northern America
+129,Tailspin Toys (Mineral Hills, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Tailspin Toys,Mineral Hills,MI,Michigan,United States,North America,Americas,Northern America
+130,Tailspin Toys (Maple Shade, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Tailspin Toys,Maple Shade,NJ,New Jersey,United States,North America,Americas,Northern America
+131,Tailspin Toys (Kwethluk, AK),(907) 555-0100,(907) 555-0101,Novelty Shop,Tailspin Toys,Kwethluk,AK,Alaska,United States,North America,Americas,Northern America
+132,Tailspin Toys (Minidoka, ID),(208) 555-0100,(208) 555-0101,Novelty Shop,Tailspin Toys,Minidoka,ID,Idaho,United States,North America,Americas,Northern America
+133,Tailspin Toys (Lake Erie Beach, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Lake Erie Beach,NY,New York,United States,North America,Americas,Northern America
+134,Tailspin Toys (Tavares, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Tailspin Toys,Tavares,FL,Florida,United States,North America,Americas,Northern America
+135,Tailspin Toys (Terre du Lac, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Tailspin Toys,Terre du Lac,MO,Missouri,United States,North America,Americas,Northern America
+136,Tailspin Toys (Mount Montgomery, NV),(702) 555-0100,(702) 555-0101,Novelty Shop,Tailspin Toys,Mount Montgomery,NV,Nevada,United States,North America,Americas,Northern America
+137,Tailspin Toys (Carbonville, UT),(385) 555-0100,(385) 555-0101,Novelty Shop,Tailspin Toys,Carbonville,UT,Utah,United States,North America,Americas,Northern America
+138,Tailspin Toys (Navassa, NC),(252) 555-0100,(252) 555-0101,Novelty Shop,Tailspin Toys,Navassa,NC,North Carolina,United States,North America,Americas,Northern America
+139,Tailspin Toys (Hardeeville, SC),(803) 555-0100,(803) 555-0101,Novelty Shop,Tailspin Toys,Hardeeville,SC,South Carolina,United States,North America,Americas,Northern America
+140,Tailspin Toys (Furley, KS),(316) 555-0100,(316) 555-0101,Novelty Shop,Tailspin Toys,Furley,KS,Kansas,United States,North America,Americas,Northern America
+141,Tailspin Toys (Arrow Rock, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Tailspin Toys,Arrow Rock,MO,Missouri,United States,North America,Americas,Northern America
+142,Tailspin Toys (King Cove, AK),(907) 555-0100,(907) 555-0101,Novelty Shop,Tailspin Toys,King Cove,AK,Alaska,United States,North America,Americas,Northern America
+143,Tailspin Toys (Ashtabula, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Tailspin Toys,Ashtabula,OH,Ohio,United States,North America,Americas,Northern America
+144,Tailspin Toys (Larose, LA),(225) 555-0100,(225) 555-0101,Novelty Shop,Tailspin Toys,Larose,LA,Louisiana,United States,North America,Americas,Northern America
+145,Tailspin Toys (Manahawkin, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Tailspin Toys,Manahawkin,NJ,New Jersey,United States,North America,Americas,Northern America
+146,Tailspin Toys (Belgreen, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Tailspin Toys,Belgreen,AL,Alabama,United States,North America,Americas,Northern America
+147,Tailspin Toys (Fishtail, MT),(406) 555-0100,(406) 555-0101,Novelty Shop,Tailspin Toys,Fishtail,MT,Montana,United States,North America,Americas,Northern America
+148,Tailspin Toys (Baraboo, WI),(262) 555-0100,(262) 555-0101,Novelty Shop,Tailspin Toys,Baraboo,WI,Wisconsin,United States,North America,Americas,Northern America
+149,Tailspin Toys (Inguadona, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Tailspin Toys,Inguadona,MN,Minnesota,United States,North America,Americas,Northern America
+150,Tailspin Toys (Corfu, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Corfu,NY,New York,United States,North America,Americas,Northern America
+151,Tailspin Toys (Antares, AZ),(480) 555-0100,(480) 555-0101,Novelty Shop,Tailspin Toys,Antares,AZ,Arizona,United States,North America,Americas,Northern America
+152,Tailspin Toys (Sun River, MT),(406) 555-0100,(406) 555-0101,Novelty Shop,Tailspin Toys,Sun River,MT,Montana,United States,North America,Americas,Northern America
+153,Tailspin Toys (Marcell, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Tailspin Toys,Marcell,MN,Minnesota,United States,North America,Americas,Northern America
+154,Tailspin Toys (Eden Valley, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Tailspin Toys,Eden Valley,MN,Minnesota,United States,North America,Americas,Northern America
+155,Tailspin Toys (Arbor Vitae, WI),(262) 555-0100,(262) 555-0101,Novelty Shop,Tailspin Toys,Arbor Vitae,WI,Wisconsin,United States,North America,Americas,Northern America
+156,Tailspin Toys (Hollywood Park, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,Hollywood Park,TX,Texas,United States,North America,Americas,Northern America
+157,Tailspin Toys (Saks, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Tailspin Toys,Saks,AL,Alabama,United States,North America,Americas,Northern America
+158,Tailspin Toys (Donner, LA),(225) 555-0100,(225) 555-0101,Novelty Shop,Tailspin Toys,Donner,LA,Louisiana,United States,North America,Americas,Northern America
+159,Tailspin Toys (Saint Louis Park, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Tailspin Toys,Saint Louis Park,MN,Minnesota,United States,North America,Americas,Northern America
+160,Tailspin Toys (Crary, ND),(701) 555-0100,(701) 555-0101,Novelty Shop,Tailspin Toys,Crary,ND,North Dakota,United States,North America,Americas,Northern America
+161,Tailspin Toys (Aspen Park, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Tailspin Toys,Aspen Park,CO,Colorado,United States,North America,Americas,Northern America
+162,Tailspin Toys (Glen Park, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Glen Park,NY,New York,United States,North America,Americas,Northern America
+163,Tailspin Toys (Panaca, NV),(702) 555-0100,(702) 555-0101,Novelty Shop,Tailspin Toys,Panaca,NV,Nevada,United States,North America,Americas,Northern America
+164,Tailspin Toys (Rothsville, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Tailspin Toys,Rothsville,PA,Pennsylvania,United States,North America,Americas,Northern America
+165,Tailspin Toys (Topstone, CT),(203) 555-0100,(203) 555-0101,Novelty Shop,Tailspin Toys,Topstone,CT,Connecticut,United States,North America,Americas,Northern America
+166,Tailspin Toys (McCamey, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,McCamey,TX,Texas,United States,North America,Americas,Northern America
+167,Tailspin Toys (Rockwall, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,Rockwall,TX,Texas,United States,North America,Americas,Northern America
+168,Tailspin Toys (Seagraves, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,Seagraves,TX,Texas,United States,North America,Americas,Northern America
+169,Tailspin Toys (Sinclair, WY),(307) 555-0100,(307) 555-0101,Novelty Shop,Tailspin Toys,Sinclair,WY,Wyoming,United States,North America,Americas,Northern America
+170,Tailspin Toys (Eastchester, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Eastchester,NY,New York,United States,North America,Americas,Northern America
+171,Tailspin Toys (Ortley Beach, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Tailspin Toys,Ortley Beach,NJ,New Jersey,United States,North America,Americas,Northern America
+172,Tailspin Toys (Madrone, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Tailspin Toys,Madrone,NM,New Mexico,United States,North America,Americas,Northern America
+173,Tailspin Toys (Wappingers Falls, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Tailspin Toys,Wappingers Falls,NY,New York,United States,North America,Americas,Northern America
+174,Tailspin Toys (Astor Park, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Tailspin Toys,Astor Park,FL,Florida,United States,North America,Americas,Northern America
+175,Tailspin Toys (San Acacia, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Tailspin Toys,San Acacia,NM,New Mexico,United States,North America,Americas,Northern America
+176,Tailspin Toys (Malott, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Malott,WA,Washington,United States,North America,Americas,Northern America
+177,Tailspin Toys (Orrtanna, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Tailspin Toys,Orrtanna,PA,Pennsylvania,United States,North America,Americas,Northern America
+178,Tailspin Toys (Armstrong Creek, WI),(262) 555-0100,(262) 555-0101,Novelty Shop,Tailspin Toys,Armstrong Creek,WI,Wisconsin,United States,North America,Americas,Northern America
+179,Tailspin Toys (Hiteman, IA),(319) 555-0100,(319) 555-0101,Novelty Shop,Tailspin Toys,Hiteman,IA,Iowa,United States,North America,Americas,Northern America
+180,Tailspin Toys (Caselton, NV),(702) 555-0100,(702) 555-0101,Novelty Shop,Tailspin Toys,Caselton,NV,Nevada,United States,North America,Americas,Northern America
+181,Tailspin Toys (Heilwood, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Tailspin Toys,Heilwood,PA,Pennsylvania,United States,North America,Americas,Northern America
+182,Tailspin Toys (Hayes Center, NE),(308) 555-0100,(308) 555-0101,Novelty Shop,Tailspin Toys,Hayes Center,NE,Nebraska,United States,North America,Americas,Northern America
+183,Tailspin Toys (Tierra Verde, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Tailspin Toys,Tierra Verde,FL,Florida,United States,North America,Americas,Northern America
+184,Tailspin Toys (South Euclid, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Tailspin Toys,South Euclid,OH,Ohio,United States,North America,Americas,Northern America
+185,Tailspin Toys (Vidrine, LA),(225) 555-0100,(225) 555-0101,Novelty Shop,Tailspin Toys,Vidrine,LA,Louisiana,United States,North America,Americas,Northern America
+186,Tailspin Toys (Placer, OR),(458) 555-0100,(458) 555-0101,Novelty Shop,Tailspin Toys,Placer,OR,Oregon,United States,North America,Americas,Northern America
+187,Tailspin Toys (Brown City, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Tailspin Toys,Brown City,MI,Michigan,United States,North America,Americas,Northern America
+188,Tailspin Toys (Premont, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Tailspin Toys,Premont,TX,Texas,United States,North America,Americas,Northern America
+189,Tailspin Toys (Wilkes-Barre, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Tailspin Toys,Wilkes-Barre,PA,Pennsylvania,United States,North America,Americas,Northern America
+190,Tailspin Toys (Teutopolis, IL),(217) 555-0100,(217) 555-0101,Novelty Shop,Tailspin Toys,Teutopolis,IL,Illinois,United States,North America,Americas,Northern America
+191,Tailspin Toys (Orchard Hill, GA),(229) 555-0100,(229) 555-0101,Novelty Shop,Tailspin Toys,Orchard Hill,GA,Georgia,United States,North America,Americas,Northern America
+192,Tailspin Toys (Optimo, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Tailspin Toys,Optimo,NM,New Mexico,United States,North America,Americas,Northern America
+193,Tailspin Toys (Knifley, KY),(270) 555-0100,(270) 555-0101,Novelty Shop,Tailspin Toys,Knifley,KY,Kentucky,United States,North America,Americas,Northern America
+194,Tailspin Toys (Naples Park, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Tailspin Toys,Naples Park,FL,Florida,United States,North America,Americas,Northern America
+195,Tailspin Toys (Lesslie, SC),(803) 555-0100,(803) 555-0101,Novelty Shop,Tailspin Toys,Lesslie,SC,South Carolina,United States,North America,Americas,Northern America
+196,Tailspin Toys (Howells, NE),(308) 555-0100,(308) 555-0101,Novelty Shop,Tailspin Toys,Howells,NE,Nebraska,United States,North America,Americas,Northern America
+197,Tailspin Toys (Magalia, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Tailspin Toys,Magalia,CA,California,United States,North America,Americas,Northern America
+198,Tailspin Toys (Buell, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Tailspin Toys,Buell,MO,Missouri,United States,North America,Americas,Northern America
+199,Tailspin Toys (Antonito, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Tailspin Toys,Antonito,CO,Colorado,United States,North America,Americas,Northern America
+200,Tailspin Toys (Tooele, UT),(385) 555-0100,(385) 555-0101,Novelty Shop,Tailspin Toys,Tooele,UT,Utah,United States,North America,Americas,Northern America
+201,Tailspin Toys (Skyway, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Tailspin Toys,Skyway,WA,Washington,United States,North America,Americas,Northern America
+401,Wingtip Toys (Head Office),(303) 555-0100,(303) 555-0101,Novelty Shop,Wingtip Toys,Orchard Mesa,CO,Colorado,United States,North America,Americas,Northern America
+402,Wingtip Toys (Black Lick, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Black Lick,PA,Pennsylvania,United States,North America,Americas,Northern America
+403,Wingtip Toys (Queen Valley, AZ),(480) 555-0100,(480) 555-0101,Novelty Shop,Wingtip Toys,Queen Valley,AZ,Arizona,United States,North America,Americas,Northern America
+404,Wingtip Toys (Penns Creek, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Penns Creek,PA,Pennsylvania,United States,North America,Americas,Northern America
+405,Wingtip Toys (Bourbonnais, IL),(217) 555-0100,(217) 555-0101,Novelty Shop,Wingtip Toys,Bourbonnais,IL,Illinois,United States,North America,Americas,Northern America
+406,Wingtip Toys (Tuscaloosa, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Wingtip Toys,Tuscaloosa,AL,Alabama,United States,North America,Americas,Northern America
+407,Wingtip Toys (Mooringsport, LA),(225) 555-0100,(225) 555-0101,Novelty Shop,Wingtip Toys,Mooringsport,LA,Louisiana,United States,North America,Americas,Northern America
+408,Wingtip Toys (Rockwall, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Rockwall,TX,Texas,United States,North America,Americas,Northern America
+409,Wingtip Toys (Orick, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,Orick,CA,California,United States,North America,Americas,Northern America
+410,Wingtip Toys (Bernstein, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Bernstein,TX,Texas,United States,North America,Americas,Northern America
+411,Wingtip Toys (Edmund, WI),(262) 555-0100,(262) 555-0101,Novelty Shop,Wingtip Toys,Edmund,WI,Wisconsin,United States,North America,Americas,Northern America
+412,Wingtip Toys (Bozeman Hot Springs, MT),(406) 555-0100,(406) 555-0101,Novelty Shop,Wingtip Toys,Bozeman Hot Springs,MT,Montana,United States,North America,Americas,Northern America
+413,Wingtip Toys (Truscott, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Truscott,TX,Texas,United States,North America,Americas,Northern America
+414,Wingtip Toys (Rose Tree, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Rose Tree,PA,Pennsylvania,United States,North America,Americas,Northern America
+415,Wingtip Toys (Leathersville, GA),(229) 555-0100,(229) 555-0101,Novelty Shop,Wingtip Toys,Leathersville,GA,Georgia,United States,North America,Americas,Northern America
+416,Wingtip Toys (Necedah, WI),(262) 555-0100,(262) 555-0101,Novelty Shop,Wingtip Toys,Necedah,WI,Wisconsin,United States,North America,Americas,Northern America
+417,Wingtip Toys (Chetek, WI),(262) 555-0100,(262) 555-0101,Novelty Shop,Wingtip Toys,Chetek,WI,Wisconsin,United States,North America,Americas,Northern America
+418,Wingtip Toys (Yaak, MT),(406) 555-0100,(406) 555-0101,Novelty Shop,Wingtip Toys,Yaak,MT,Montana,United States,North America,Americas,Northern America
+419,Wingtip Toys (Compass Lake, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Wingtip Toys,Compass Lake,FL,Florida,United States,North America,Americas,Northern America
+420,Wingtip Toys (Herlong, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,Herlong,CA,California,United States,North America,Americas,Northern America
+421,Wingtip Toys (Highland Home, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Wingtip Toys,Highland Home,AL,Alabama,United States,North America,Americas,Northern America
+422,Wingtip Toys (Naches, WA),(206) 555-0100,(206) 555-0101,Novelty Shop,Wingtip Toys,Naches,WA,Washington,United States,North America,Americas,Northern America
+423,Wingtip Toys (Baldwin City, KS),(316) 555-0100,(316) 555-0101,Novelty Shop,Wingtip Toys,Baldwin City,KS,Kansas,United States,North America,Americas,Northern America
+424,Wingtip Toys (Heartwell, NE),(308) 555-0100,(308) 555-0101,Novelty Shop,Wingtip Toys,Heartwell,NE,Nebraska,United States,North America,Americas,Northern America
+425,Wingtip Toys (Bethel Acres, OK),(405) 555-0100,(405) 555-0101,Novelty Shop,Wingtip Toys,Bethel Acres,OK,Oklahoma,United States,North America,Americas,Northern America
+426,Wingtip Toys (Willow Valley, AZ),(480) 555-0100,(480) 555-0101,Novelty Shop,Wingtip Toys,Willow Valley,AZ,Arizona,United States,North America,Americas,Northern America
+427,Wingtip Toys (Athol Springs, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Wingtip Toys,Athol Springs,NY,New York,United States,North America,Americas,Northern America
+428,Wingtip Toys (Paw Paw Lake, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Wingtip Toys,Paw Paw Lake,MI,Michigan,United States,North America,Americas,Northern America
+429,Wingtip Toys (Lilbourn, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Wingtip Toys,Lilbourn,MO,Missouri,United States,North America,Americas,Northern America
+430,Wingtip Toys (Lost River, ID),(208) 555-0100,(208) 555-0101,Novelty Shop,Wingtip Toys,Lost River,ID,Idaho,United States,North America,Americas,Northern America
+431,Wingtip Toys (Rosa S·nchez, PR),(787) 555-0100,(787) 555-0101,Novelty Shop,Wingtip Toys,Rosa S·nchez,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+432,Wingtip Toys (Vamo, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Wingtip Toys,Vamo,FL,Florida,United States,North America,Americas,Northern America
+433,Wingtip Toys (Balko, OK),(405) 555-0100,(405) 555-0101,Novelty Shop,Wingtip Toys,Balko,OK,Oklahoma,United States,North America,Americas,Northern America
+434,Wingtip Toys (Lime Lake, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Wingtip Toys,Lime Lake,NY,New York,United States,North America,Americas,Northern America
+435,Wingtip Toys (Teutopolis, IL),(217) 555-0100,(217) 555-0101,Novelty Shop,Wingtip Toys,Teutopolis,IL,Illinois,United States,North America,Americas,Northern America
+436,Wingtip Toys (Gargatha, VA),(276) 555-0100,(276) 555-0101,Novelty Shop,Wingtip Toys,Gargatha,VA,Virginia,United States,North America,Americas,Northern America
+437,Wingtip Toys (Cadogan, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Cadogan,PA,Pennsylvania,United States,North America,Americas,Northern America
+438,Wingtip Toys (Lucasville, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Wingtip Toys,Lucasville,OH,Ohio,United States,North America,Americas,Northern America
+439,Wingtip Toys (Cylon, WI),(262) 555-0100,(262) 555-0101,Novelty Shop,Wingtip Toys,Cylon,WI,Wisconsin,United States,North America,Americas,Northern America
+440,Wingtip Toys (Asher, OK),(405) 555-0100,(405) 555-0101,Novelty Shop,Wingtip Toys,Asher,OK,Oklahoma,United States,North America,Americas,Northern America
+441,Wingtip Toys (Keosauqua, IA),(319) 555-0100,(319) 555-0101,Novelty Shop,Wingtip Toys,Keosauqua,IA,Iowa,United States,North America,Americas,Northern America
+442,Wingtip Toys (Homer City, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Homer City,PA,Pennsylvania,United States,North America,Americas,Northern America
+443,Wingtip Toys (Berville, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Wingtip Toys,Berville,MI,Michigan,United States,North America,Americas,Northern America
+444,Wingtip Toys (Tea, SD),(605) 555-0100,(605) 555-0101,Novelty Shop,Wingtip Toys,Tea,SD,South Dakota,United States,North America,Americas,Northern America
+445,Wingtip Toys (Dacono, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Wingtip Toys,Dacono,CO,Colorado,United States,North America,Americas,Northern America
+446,Wingtip Toys (Saint Landry, LA),(225) 555-0100,(225) 555-0101,Novelty Shop,Wingtip Toys,Saint Landry,LA,Louisiana,United States,North America,Americas,Northern America
+447,Wingtip Toys (Coin, IA),(319) 555-0100,(319) 555-0101,Novelty Shop,Wingtip Toys,Coin,IA,Iowa,United States,North America,Americas,Northern America
+448,Wingtip Toys (Salt Wells, NV),(702) 555-0100,(702) 555-0101,Novelty Shop,Wingtip Toys,Salt Wells,NV,Nevada,United States,North America,Americas,Northern America
+449,Wingtip Toys (Delray, WV),(304) 555-0100,(304) 555-0101,Novelty Shop,Wingtip Toys,Delray,WV,West Virginia,United States,North America,Americas,Northern America
+450,Wingtip Toys (Mount Summit, IN),(219) 555-0100,(219) 555-0101,Novelty Shop,Wingtip Toys,Mount Summit,IN,Indiana,United States,North America,Americas,Northern America
+451,Wingtip Toys (Smoot, WY),(307) 555-0100,(307) 555-0101,Novelty Shop,Wingtip Toys,Smoot,WY,Wyoming,United States,North America,Americas,Northern America
+452,Wingtip Toys (Lake Davis, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,Lake Davis,CA,California,United States,North America,Americas,Northern America
+453,Wingtip Toys (Stanardsville, VA),(276) 555-0100,(276) 555-0101,Novelty Shop,Wingtip Toys,Stanardsville,VA,Virginia,United States,North America,Americas,Northern America
+454,Wingtip Toys (Corcovado, PR),(787) 555-0100,(787) 555-0101,Novelty Shop,Wingtip Toys,Corcovado,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+455,Wingtip Toys (Taft Heights, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,Taft Heights,CA,California,United States,North America,Americas,Northern America
+456,Wingtip Toys (West Hempstead, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Wingtip Toys,West Hempstead,NY,New York,United States,North America,Americas,Northern America
+457,Wingtip Toys (Portales, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Wingtip Toys,Portales,NM,New Mexico,United States,North America,Americas,Northern America
+458,Wingtip Toys (Coker, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Wingtip Toys,Coker,AL,Alabama,United States,North America,Americas,Northern America
+459,Wingtip Toys (Haydenville, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Wingtip Toys,Haydenville,OH,Ohio,United States,North America,Americas,Northern America
+460,Wingtip Toys (Mayhill, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Wingtip Toys,Mayhill,NM,New Mexico,United States,North America,Americas,Northern America
+461,Wingtip Toys (Vair, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Vair,TX,Texas,United States,North America,Americas,Northern America
+462,Wingtip Toys (Crossroads, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Wingtip Toys,Crossroads,NM,New Mexico,United States,North America,Americas,Northern America
+463,Wingtip Toys (Cowlington, OK),(405) 555-0100,(405) 555-0101,Novelty Shop,Wingtip Toys,Cowlington,OK,Oklahoma,United States,North America,Americas,Northern America
+464,Wingtip Toys (Glen Ullin, ND),(701) 555-0100,(701) 555-0101,Novelty Shop,Wingtip Toys,Glen Ullin,ND,North Dakota,United States,North America,Americas,Northern America
+465,Wingtip Toys (Oologah, OK),(405) 555-0100,(405) 555-0101,Novelty Shop,Wingtip Toys,Oologah,OK,Oklahoma,United States,North America,Americas,Northern America
+466,Wingtip Toys (Lytle, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Lytle,TX,Texas,United States,North America,Americas,Northern America
+467,Wingtip Toys (Mahaffey, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Mahaffey,PA,Pennsylvania,United States,North America,Americas,Northern America
+468,Wingtip Toys (Sunburg, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Wingtip Toys,Sunburg,MN,Minnesota,United States,North America,Americas,Northern America
+469,Wingtip Toys (Johnetta, KY),(270) 555-0100,(270) 555-0101,Novelty Shop,Wingtip Toys,Johnetta,KY,Kentucky,United States,North America,Americas,Northern America
+470,Wingtip Toys (Universal City, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Universal City,TX,Texas,United States,North America,Americas,Northern America
+471,Wingtip Toys (Ridgemark, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,Ridgemark,CA,California,United States,North America,Americas,Northern America
+472,Wingtip Toys (San Jacinto, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,San Jacinto,CA,California,United States,North America,Americas,Northern America
+473,Wingtip Toys (Floriston, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,Floriston,CA,California,United States,North America,Americas,Northern America
+474,Wingtip Toys (Bokeelia, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Wingtip Toys,Bokeelia,FL,Florida,United States,North America,Americas,Northern America
+475,Wingtip Toys (Cale, AR),(479) 555-0100,(479) 555-0101,Novelty Shop,Wingtip Toys,Cale,AR,Arkansas,United States,North America,Americas,Northern America
+476,Wingtip Toys (Karthaus, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Karthaus,PA,Pennsylvania,United States,North America,Americas,Northern America
+477,Wingtip Toys (Glancy, MS),(228) 555-0100,(228) 555-0101,Novelty Shop,Wingtip Toys,Glancy,MS,Mississippi,United States,North America,Americas,Northern America
+478,Wingtip Toys (Stoneboro, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Stoneboro,PA,Pennsylvania,United States,North America,Americas,Northern America
+479,Wingtip Toys (Mier, IN),(219) 555-0100,(219) 555-0101,Novelty Shop,Wingtip Toys,Mier,IN,Indiana,United States,North America,Americas,Northern America
+480,Wingtip Toys (Wapinitia, OR),(458) 555-0100,(458) 555-0101,Novelty Shop,Wingtip Toys,Wapinitia,OR,Oregon,United States,North America,Americas,Northern America
+481,Wingtip Toys (White Church, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Wingtip Toys,White Church,MO,Missouri,United States,North America,Americas,Northern America
+482,Wingtip Toys (Caton, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Wingtip Toys,Caton,NY,New York,United States,North America,Americas,Northern America
+483,Wingtip Toys (Plum Branch, SC),(803) 555-0100,(803) 555-0101,Novelty Shop,Wingtip Toys,Plum Branch,SC,South Carolina,United States,North America,Americas,Northern America
+484,Wingtip Toys (Mauldin, SC),(803) 555-0100,(803) 555-0101,Novelty Shop,Wingtip Toys,Mauldin,SC,South Carolina,United States,North America,Americas,Northern America
+485,Wingtip Toys (Bonner Springs, KS),(316) 555-0100,(316) 555-0101,Novelty Shop,Wingtip Toys,Bonner Springs,KS,Kansas,United States,North America,Americas,Northern America
+486,Wingtip Toys (Lowellville, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Wingtip Toys,Lowellville,OH,Ohio,United States,North America,Americas,Northern America
+487,Wingtip Toys (Elverson, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Elverson,PA,Pennsylvania,United States,North America,Americas,Northern America
+488,Wingtip Toys (Isabela, PR),(787) 555-0100,(787) 555-0101,Novelty Shop,Wingtip Toys,Isabela,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+489,Wingtip Toys (Sayner, WI),(262) 555-0100,(262) 555-0101,Novelty Shop,Wingtip Toys,Sayner,WI,Wisconsin,United States,North America,Americas,Northern America
+490,Wingtip Toys (Beals, ME),(207) 555-0100,(207) 555-0101,Novelty Shop,Wingtip Toys,Beals,ME,Maine,United States,North America,Americas,Northern America
+491,Wingtip Toys (Morton Grove, IL),(217) 555-0100,(217) 555-0101,Novelty Shop,Wingtip Toys,Morton Grove,IL,Illinois,United States,North America,Americas,Northern America
+492,Wingtip Toys (Birds, IL),(217) 555-0100,(217) 555-0101,Novelty Shop,Wingtip Toys,Birds,IL,Illinois,United States,North America,Americas,Northern America
+493,Wingtip Toys (Federalsburg, MD),(240) 555-0100,(240) 555-0101,Novelty Shop,Wingtip Toys,Federalsburg,MD,Maryland,United States,North America,Americas,Northern America
+494,Wingtip Toys (Pikeview, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Wingtip Toys,Pikeview,CO,Colorado,United States,North America,Americas,Northern America
+495,Wingtip Toys (Boalsburg, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Boalsburg,PA,Pennsylvania,United States,North America,Americas,Northern America
+496,Wingtip Toys (Port Hueneme, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,Port Hueneme,CA,California,United States,North America,Americas,Northern America
+497,Wingtip Toys (Verdery, SC),(803) 555-0100,(803) 555-0101,Novelty Shop,Wingtip Toys,Verdery,SC,South Carolina,United States,North America,Americas,Northern America
+498,Wingtip Toys (Obetz, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Wingtip Toys,Obetz,OH,Ohio,United States,North America,Americas,Northern America
+499,Wingtip Toys (East Fultonham, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Wingtip Toys,East Fultonham,OH,Ohio,United States,North America,Americas,Northern America
+500,Wingtip Toys (Obion, TN),(423) 555-0100,(423) 555-0101,Novelty Shop,Wingtip Toys,Obion,TN,Tennessee,United States,North America,Americas,Northern America
+501,Wingtip Toys (Cavendish, VT),(802) 555-0100,(802) 555-0101,Novelty Shop,Wingtip Toys,Cavendish,VT,Vermont,United States,North America,Americas,Northern America
+502,Wingtip Toys (Miesville, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Wingtip Toys,Miesville,MN,Minnesota,United States,North America,Americas,Northern America
+503,Wingtip Toys (Valhalla, NC),(252) 555-0100,(252) 555-0101,Novelty Shop,Wingtip Toys,Valhalla,NC,North Carolina,United States,North America,Americas,Northern America
+504,Wingtip Toys (Cape Neddick, ME),(207) 555-0100,(207) 555-0101,Novelty Shop,Wingtip Toys,Cape Neddick,ME,Maine,United States,North America,Americas,Northern America
+505,Wingtip Toys (Silver Plume, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Wingtip Toys,Silver Plume,CO,Colorado,United States,North America,Americas,Northern America
+506,Wingtip Toys (North Beach Haven, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Wingtip Toys,North Beach Haven,NJ,New Jersey,United States,North America,Americas,Northern America
+507,Wingtip Toys (Downingtown, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Downingtown,PA,Pennsylvania,United States,North America,Americas,Northern America
+508,Wingtip Toys (Branson West, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Wingtip Toys,Branson West,MO,Missouri,United States,North America,Americas,Northern America
+509,Wingtip Toys (Bergen Park, CO),(303) 555-0100,(303) 555-0101,Novelty Shop,Wingtip Toys,Bergen Park,CO,Colorado,United States,North America,Americas,Northern America
+510,Wingtip Toys (Grabill, IN),(219) 555-0100,(219) 555-0101,Novelty Shop,Wingtip Toys,Grabill,IN,Indiana,United States,North America,Americas,Northern America
+511,Wingtip Toys (North Manitou, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Wingtip Toys,North Manitou,MI,Michigan,United States,North America,Americas,Northern America
+512,Wingtip Toys (Philip, SD),(605) 555-0100,(605) 555-0101,Novelty Shop,Wingtip Toys,Philip,SD,South Dakota,United States,North America,Americas,Northern America
+513,Wingtip Toys (Straughn, IN),(219) 555-0100,(219) 555-0101,Novelty Shop,Wingtip Toys,Straughn,IN,Indiana,United States,North America,Americas,Northern America
+514,Wingtip Toys (Gilford, NH),(603) 555-0100,(603) 555-0101,Novelty Shop,Wingtip Toys,Gilford,NH,New Hampshire,United States,North America,Americas,Northern America
+515,Wingtip Toys (Del Valle, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Del Valle,TX,Texas,United States,North America,Americas,Northern America
+516,Wingtip Toys (Harkers Island, NC),(252) 555-0100,(252) 555-0101,Novelty Shop,Wingtip Toys,Harkers Island,NC,North Carolina,United States,North America,Americas,Northern America
+517,Wingtip Toys (Licking, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Wingtip Toys,Licking,MO,Missouri,United States,North America,Americas,Northern America
+518,Wingtip Toys (Raton, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Wingtip Toys,Raton,NM,New Mexico,United States,North America,Americas,Northern America
+519,Wingtip Toys (Boynton, OK),(405) 555-0100,(405) 555-0101,Novelty Shop,Wingtip Toys,Boynton,OK,Oklahoma,United States,North America,Americas,Northern America
+520,Wingtip Toys (Frenchburg, KY),(270) 555-0100,(270) 555-0101,Novelty Shop,Wingtip Toys,Frenchburg,KY,Kentucky,United States,North America,Americas,Northern America
+521,Wingtip Toys (Robertsdale, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Wingtip Toys,Robertsdale,AL,Alabama,United States,North America,Americas,Northern America
+522,Wingtip Toys (Dickerson, MD),(240) 555-0100,(240) 555-0101,Novelty Shop,Wingtip Toys,Dickerson,MD,Maryland,United States,North America,Americas,Northern America
+523,Wingtip Toys (Bruceton Mills, WV),(304) 555-0100,(304) 555-0101,Novelty Shop,Wingtip Toys,Bruceton Mills,WV,West Virginia,United States,North America,Americas,Northern America
+524,Wingtip Toys (Cloquet, MN),(218) 555-0100,(218) 555-0101,Novelty Shop,Wingtip Toys,Cloquet,MN,Minnesota,United States,North America,Americas,Northern America
+525,Wingtip Toys (Claycomo, MO),(314) 555-0100,(314) 555-0101,Novelty Shop,Wingtip Toys,Claycomo,MO,Missouri,United States,North America,Americas,Northern America
+526,Wingtip Toys (Beekmantown, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Wingtip Toys,Beekmantown,NY,New York,United States,North America,Americas,Northern America
+527,Wingtip Toys (Islip Terrace, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Wingtip Toys,Islip Terrace,NY,New York,United States,North America,Americas,Northern America
+528,Wingtip Toys (Rich Creek, VA),(276) 555-0100,(276) 555-0101,Novelty Shop,Wingtip Toys,Rich Creek,VA,Virginia,United States,North America,Americas,Northern America
+529,Wingtip Toys (Griswoldville, GA),(229) 555-0100,(229) 555-0101,Novelty Shop,Wingtip Toys,Griswoldville,GA,Georgia,United States,North America,Americas,Northern America
+530,Wingtip Toys (East Mountain, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,East Mountain,TX,Texas,United States,North America,Americas,Northern America
+531,Wingtip Toys (Omer, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Wingtip Toys,Omer,MI,Michigan,United States,North America,Americas,Northern America
+532,Wingtip Toys (Waycross, GA),(229) 555-0100,(229) 555-0101,Novelty Shop,Wingtip Toys,Waycross,GA,Georgia,United States,North America,Americas,Northern America
+533,Wingtip Toys (Nichols Hills, OK),(405) 555-0100,(405) 555-0101,Novelty Shop,Wingtip Toys,Nichols Hills,OK,Oklahoma,United States,North America,Americas,Northern America
+534,Wingtip Toys (Plaquemine, LA),(225) 555-0100,(225) 555-0101,Novelty Shop,Wingtip Toys,Plaquemine,LA,Louisiana,United States,North America,Americas,Northern America
+535,Wingtip Toys (Triadelphia, WV),(304) 555-0100,(304) 555-0101,Novelty Shop,Wingtip Toys,Triadelphia,WV,West Virginia,United States,North America,Americas,Northern America
+536,Wingtip Toys (Ferney, SD),(605) 555-0100,(605) 555-0101,Novelty Shop,Wingtip Toys,Ferney,SD,South Dakota,United States,North America,Americas,Northern America
+537,Wingtip Toys (Akhiok, AK),(907) 555-0100,(907) 555-0101,Novelty Shop,Wingtip Toys,Akhiok,AK,Alaska,United States,North America,Americas,Northern America
+538,Wingtip Toys (Deeson, MS),(228) 555-0100,(228) 555-0101,Novelty Shop,Wingtip Toys,Deeson,MS,Mississippi,United States,North America,Americas,Northern America
+539,Wingtip Toys (Nuangola, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Nuangola,PA,Pennsylvania,United States,North America,Americas,Northern America
+540,Wingtip Toys (Weld, ME),(207) 555-0100,(207) 555-0101,Novelty Shop,Wingtip Toys,Weld,ME,Maine,United States,North America,Americas,Northern America
+541,Wingtip Toys (Mickleton, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Wingtip Toys,Mickleton,NJ,New Jersey,United States,North America,Americas,Northern America
+542,Wingtip Toys (Schererville, IN),(219) 555-0100,(219) 555-0101,Novelty Shop,Wingtip Toys,Schererville,IN,Indiana,United States,North America,Americas,Northern America
+543,Wingtip Toys (Lexington Heights, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Wingtip Toys,Lexington Heights,MI,Michigan,United States,North America,Americas,Northern America
+544,Wingtip Toys (Broomtown, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Wingtip Toys,Broomtown,AL,Alabama,United States,North America,Americas,Northern America
+545,Wingtip Toys (Jamison, IA),(319) 555-0100,(319) 555-0101,Novelty Shop,Wingtip Toys,Jamison,IA,Iowa,United States,North America,Americas,Northern America
+546,Wingtip Toys (Key Biscayne, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Wingtip Toys,Key Biscayne,FL,Florida,United States,North America,Americas,Northern America
+547,Wingtip Toys (Chaseley, ND),(701) 555-0100,(701) 555-0101,Novelty Shop,Wingtip Toys,Chaseley,ND,North Dakota,United States,North America,Americas,Northern America
+548,Wingtip Toys (Indian Creek, IL),(217) 555-0100,(217) 555-0101,Novelty Shop,Wingtip Toys,Indian Creek,IL,Illinois,United States,North America,Americas,Northern America
+549,Wingtip Toys (Lake Ronkonkoma, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Wingtip Toys,Lake Ronkonkoma,NY,New York,United States,North America,Americas,Northern America
+550,Wingtip Toys (Morrison Bluff, AR),(479) 555-0100,(479) 555-0101,Novelty Shop,Wingtip Toys,Morrison Bluff,AR,Arkansas,United States,North America,Americas,Northern America
+551,Wingtip Toys (Huntingburg, IN),(219) 555-0100,(219) 555-0101,Novelty Shop,Wingtip Toys,Huntingburg,IN,Indiana,United States,North America,Americas,Northern America
+552,Wingtip Toys (Shay, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Shay,PA,Pennsylvania,United States,North America,Americas,Northern America
+553,Wingtip Toys (Helotes, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Helotes,TX,Texas,United States,North America,Americas,Northern America
+554,Wingtip Toys (Hollandsburg, IN),(219) 555-0100,(219) 555-0101,Novelty Shop,Wingtip Toys,Hollandsburg,IN,Indiana,United States,North America,Americas,Northern America
+555,Wingtip Toys (Liberty Grove, MD),(240) 555-0100,(240) 555-0101,Novelty Shop,Wingtip Toys,Liberty Grove,MD,Maryland,United States,North America,Americas,Northern America
+556,Wingtip Toys (Morita, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Morita,TX,Texas,United States,North America,Americas,Northern America
+557,Wingtip Toys (New Laguna, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Wingtip Toys,New Laguna,NM,New Mexico,United States,North America,Americas,Northern America
+558,Wingtip Toys (Bourneville, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Wingtip Toys,Bourneville,OH,Ohio,United States,North America,Americas,Northern America
+559,Wingtip Toys (Mendoza, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Mendoza,TX,Texas,United States,North America,Americas,Northern America
+560,Wingtip Toys (Palmas del Mar, PR),(787) 555-0100,(787) 555-0101,Novelty Shop,Wingtip Toys,Palmas del Mar,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+561,Wingtip Toys (Marion Junction, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Wingtip Toys,Marion Junction,AL,Alabama,United States,North America,Americas,Northern America
+562,Wingtip Toys (Ware Shoals, SC),(803) 555-0100,(803) 555-0101,Novelty Shop,Wingtip Toys,Ware Shoals,SC,South Carolina,United States,North America,Americas,Northern America
+563,Wingtip Toys (Lostine, OR),(458) 555-0100,(458) 555-0101,Novelty Shop,Wingtip Toys,Lostine,OR,Oregon,United States,North America,Americas,Northern America
+564,Wingtip Toys (Tilleda, WI),(262) 555-0100,(262) 555-0101,Novelty Shop,Wingtip Toys,Tilleda,WI,Wisconsin,United States,North America,Americas,Northern America
+565,Wingtip Toys (Wapiti, WY),(307) 555-0100,(307) 555-0101,Novelty Shop,Wingtip Toys,Wapiti,WY,Wyoming,United States,North America,Americas,Northern America
+566,Wingtip Toys (Amado, AZ),(480) 555-0100,(480) 555-0101,Novelty Shop,Wingtip Toys,Amado,AZ,Arizona,United States,North America,Americas,Northern America
+567,Wingtip Toys (Jeromesville, OH),(216) 555-0100,(216) 555-0101,Novelty Shop,Wingtip Toys,Jeromesville,OH,Ohio,United States,North America,Americas,Northern America
+568,Wingtip Toys (Ovilla, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Ovilla,TX,Texas,United States,North America,Americas,Northern America
+569,Wingtip Toys (West Frostproof, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Wingtip Toys,West Frostproof,FL,Florida,United States,North America,Americas,Northern America
+570,Wingtip Toys (Flomaton, AL),(205) 555-0100,(205) 555-0101,Novelty Shop,Wingtip Toys,Flomaton,AL,Alabama,United States,North America,Americas,Northern America
+571,Wingtip Toys (Pawlet, VT),(802) 555-0100,(802) 555-0101,Novelty Shop,Wingtip Toys,Pawlet,VT,Vermont,United States,North America,Americas,Northern America
+572,Wingtip Toys (Trout Run, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Trout Run,PA,Pennsylvania,United States,North America,Americas,Northern America
+573,Wingtip Toys (Marin City, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,Marin City,CA,California,United States,North America,Americas,Northern America
+574,Wingtip Toys (Molalla, OR),(458) 555-0100,(458) 555-0101,Novelty Shop,Wingtip Toys,Molalla,OR,Oregon,United States,North America,Americas,Northern America
+575,Wingtip Toys (Trumansburg, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Wingtip Toys,Trumansburg,NY,New York,United States,North America,Americas,Northern America
+576,Wingtip Toys (Goodings Grove, IL),(217) 555-0100,(217) 555-0101,Novelty Shop,Wingtip Toys,Goodings Grove,IL,Illinois,United States,North America,Americas,Northern America
+577,Wingtip Toys (Cherryplain, NY),(212) 555-0100,(212) 555-0101,Novelty Shop,Wingtip Toys,Cherryplain,NY,New York,United States,North America,Americas,Northern America
+578,Wingtip Toys (Bell Acres, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Bell Acres,PA,Pennsylvania,United States,North America,Americas,Northern America
+579,Wingtip Toys (Connoquenessing, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Connoquenessing,PA,Pennsylvania,United States,North America,Americas,Northern America
+580,Wingtip Toys (Sarversville, PA),(215) 555-0100,(215) 555-0101,Novelty Shop,Wingtip Toys,Sarversville,PA,Pennsylvania,United States,North America,Americas,Northern America
+581,Wingtip Toys (Munich, ND),(701) 555-0100,(701) 555-0101,Novelty Shop,Wingtip Toys,Munich,ND,North Dakota,United States,North America,Americas,Northern America
+582,Wingtip Toys (Montoya, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Wingtip Toys,Montoya,NM,New Mexico,United States,North America,Americas,Northern America
+583,Wingtip Toys (Knights Landing, CA),(209) 555-0100,(209) 555-0101,Novelty Shop,Wingtip Toys,Knights Landing,CA,California,United States,North America,Americas,Northern America
+584,Wingtip Toys (Cache, OK),(405) 555-0100,(405) 555-0101,Novelty Shop,Wingtip Toys,Cache,OK,Oklahoma,United States,North America,Americas,Northern America
+585,Wingtip Toys (Towaco, NJ),(201) 555-0100,(201) 555-0101,Novelty Shop,Wingtip Toys,Towaco,NJ,New Jersey,United States,North America,Americas,Northern America
+586,Wingtip Toys (Lynne, FL),(239) 555-0100,(239) 555-0101,Novelty Shop,Wingtip Toys,Lynne,FL,Florida,United States,North America,Americas,Northern America
+587,Wingtip Toys (Plata, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Plata,TX,Texas,United States,North America,Americas,Northern America
+588,Wingtip Toys (Oak Point, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Oak Point,TX,Texas,United States,North America,Americas,Northern America
+589,Wingtip Toys (Alcester, SD),(605) 555-0100,(605) 555-0101,Novelty Shop,Wingtip Toys,Alcester,SD,South Dakota,United States,North America,Americas,Northern America
+590,Wingtip Toys (McAdenville, NC),(252) 555-0100,(252) 555-0101,Novelty Shop,Wingtip Toys,McAdenville,NC,North Carolina,United States,North America,Americas,Northern America
+591,Wingtip Toys (Idaho City, ID),(208) 555-0100,(208) 555-0101,Novelty Shop,Wingtip Toys,Idaho City,ID,Idaho,United States,North America,Americas,Northern America
+592,Wingtip Toys (Dunkerton, IA),(319) 555-0100,(319) 555-0101,Novelty Shop,Wingtip Toys,Dunkerton,IA,Iowa,United States,North America,Americas,Northern America
+593,Wingtip Toys (Cuyamungue, NM),(505) 555-0100,(505) 555-0101,Novelty Shop,Wingtip Toys,Cuyamungue,NM,New Mexico,United States,North America,Americas,Northern America
+594,Wingtip Toys (Marfa, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Marfa,TX,Texas,United States,North America,Americas,Northern America
+595,Wingtip Toys (Accomac, VA),(276) 555-0100,(276) 555-0101,Novelty Shop,Wingtip Toys,Accomac,VA,Virginia,United States,North America,Americas,Northern America
+596,Wingtip Toys (Cos Cob, CT),(203) 555-0100,(203) 555-0101,Novelty Shop,Wingtip Toys,Cos Cob,CT,Connecticut,United States,North America,Americas,Northern America
+597,Wingtip Toys (Haycock, AK),(907) 555-0100,(907) 555-0101,Novelty Shop,Wingtip Toys,Haycock,AK,Alaska,United States,North America,Americas,Northern America
+598,Wingtip Toys (Kapa'a, HI),(808) 555-0100,(808) 555-0101,Novelty Shop,Wingtip Toys,Kapa'a,HI,Hawaii,United States,North America,Americas,Northern America
+599,Wingtip Toys (Dickworsham, TX),(210) 555-0100,(210) 555-0101,Novelty Shop,Wingtip Toys,Dickworsham,TX,Texas,United States,North America,Americas,Northern America
+600,Wingtip Toys (Caro, MI),(231) 555-0100,(231) 555-0101,Novelty Shop,Wingtip Toys,Caro,MI,Michigan,United States,North America,Americas,Northern America
+601,Wingtip Toys (Ruthsburg, MD),(240) 555-0100,(240) 555-0101,Novelty Shop,Wingtip Toys,Ruthsburg,MD,Maryland,United States,North America,Americas,Northern America
+801,Eric Torres,(307) 555-0100,(307) 555-0101,Corporate,,Shell,WY,Wyoming,United States,North America,Americas,Northern America
+802,Cosmina Vlad,(505) 555-0100,(505) 555-0101,Corporate,,CaÒon,NM,New Mexico,United States,North America,Americas,Northern America
+803,Bala Dixit,(209) 555-0100,(209) 555-0101,Novelty Shop,,Termo,CA,California,United States,North America,Americas,Northern America
+804,Aleksandrs Riekstins,(605) 555-0100,(605) 555-0101,Computer Store,,La Bolt,SD,South Dakota,United States,North America,Americas,Northern America
+805,Ratan Poddar,(907) 555-0100,(907) 555-0101,Novelty Shop,,Ekwok,AK,Alaska,United States,North America,Americas,Northern America
+806,Shi Tu,(307) 555-0100,(307) 555-0101,Novelty Shop,,Sinclair,WY,Wyoming,United States,North America,Americas,Northern America
+807,Gunnar Lohmus,(201) 555-0100,(201) 555-0101,Gift Store,,Wanaque,NJ,New Jersey,United States,North America,Americas,Northern America
+808,Jackson Kolios,(209) 555-0100,(209) 555-0101,Computer Store,,Rail Road Flat,CA,California,United States,North America,Americas,Northern America
+809,Madhu Dwivedi,(802) 555-0100,(802) 555-0101,Computer Store,,Panton,VT,Vermont,United States,North America,Americas,Northern America
+810,Alena Kellnerova,(303) 555-0100,(303) 555-0101,Corporate,,Segundo,CO,Colorado,United States,North America,Americas,Northern America
+811,Surendra Sahu,(210) 555-0100,(210) 555-0101,Novelty Shop,,Old River-Winfree,TX,Texas,United States,North America,Americas,Northern America
+812,Celica Barajas,(270) 555-0100,(270) 555-0101,Supermarket,,Drakesboro,KY,Kentucky,United States,North America,Americas,Northern America
+813,Shyam Poddar,(218) 555-0100,(218) 555-0101,Corporate,,Tenstrike,MN,Minnesota,United States,North America,Americas,Northern America
+814,Johanna Hoornstra,(210) 555-0100,(210) 555-0101,Novelty Shop,,Petronila,TX,Texas,United States,North America,Americas,Northern America
+815,Libuse Valentova,(270) 555-0100,(270) 555-0101,Novelty Shop,,Elkatawa,KY,Kentucky,United States,North America,Americas,Northern America
+816,Harsha Huq,(314) 555-0100,(314) 555-0101,Gift Store,,Dennis Acres,MO,Missouri,United States,North America,Americas,Northern America
+817,Agrita Kanepa,(201) 555-0100,(201) 555-0101,Supermarket,,Branchburg Park,NJ,New Jersey,United States,North America,Americas,Northern America
+818,Liia Orav,(252) 555-0100,(252) 555-0101,Novelty Shop,,Bladenboro,NC,North Carolina,United States,North America,Americas,Northern America
+819,Santiago Vera,(304) 555-0100,(304) 555-0101,Computer Store,,Nitro,WV,West Virginia,United States,North America,Americas,Northern America
+820,Knut Svensson,(201) 555-0100,(201) 555-0101,Computer Store,,Madison Park,NJ,New Jersey,United States,North America,Americas,Northern America
+821,Kwanjai Saowaluk,(787) 555-0100,(787) 555-0101,Supermarket,,CataÒo,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+822,Suparna Bhattacharya,(314) 555-0100,(314) 555-0101,Supermarket,,Tiff City,MO,Missouri,United States,North America,Americas,Northern America
+823,Francisca Laureano,(319) 555-0100,(319) 555-0101,Gift Store,,Jolley,IA,Iowa,United States,North America,Americas,Northern America
+824,Risto Valbe,(205) 555-0100,(205) 555-0101,Supermarket,,Bazemore,AL,Alabama,United States,North America,Americas,Northern America
+825,Jayanta Thakur,(276) 555-0100,(276) 555-0101,Gift Store,,Raven,VA,Virginia,United States,North America,Americas,Northern America
+826,Leila Carvalho,(217) 555-0100,(217) 555-0101,Novelty Shop,,Spillertown,IL,Illinois,United States,North America,Americas,Northern America
+827,Crina Grasu,(308) 555-0100,(308) 555-0101,Computer Store,,Tamora,NE,Nebraska,United States,North America,Americas,Northern America
+828,Sercan Celik,(217) 555-0100,(217) 555-0101,Gift Store,,Tolono,IL,Illinois,United States,North America,Americas,Northern America
+829,Jack Walker,(316) 555-0100,(316) 555-0101,Supermarket,,Elbing,KS,Kansas,United States,North America,Americas,Northern America
+830,Jana Fialova,(215) 555-0100,(215) 555-0101,Novelty Shop,,Weigelstown,PA,Pennsylvania,United States,North America,Americas,Northern America
+831,Bhaavan Rai,(308) 555-0100,(308) 555-0101,Corporate,,Chalco,NE,Nebraska,United States,North America,Americas,Northern America
+832,Aakriti Byrraju,(216) 555-0100,(216) 555-0101,Supermarket,,Glenwillow,OH,Ohio,United States,North America,Americas,Northern America
+833,Devraj Rao,(385) 555-0100,(385) 555-0101,Novelty Shop,,Westwater,UT,Utah,United States,North America,Americas,Northern America
+834,Cong Hoa,(212) 555-0100,(212) 555-0101,Gift Store,,Palatine Bridge,NY,New York,United States,North America,Americas,Northern America
+835,Dominic Davignon,(209) 555-0100,(209) 555-0101,Supermarket,,Twin Peaks,CA,California,United States,North America,Americas,Northern America
+836,Abel Spirlea,(218) 555-0100,(218) 555-0101,Novelty Shop,,Markville,MN,Minnesota,United States,North America,Americas,Northern America
+837,Anil Sarkar,(215) 555-0100,(215) 555-0101,Supermarket,,Gardners,PA,Pennsylvania,United States,North America,Americas,Northern America
+838,Pavel Bogdanov,(339) 555-0100,(339) 555-0101,Corporate,,New Braintree,MA,Massachusetts[E],United States,North America,Americas,Northern America
+839,Juan Morse,(423) 555-0100,(423) 555-0101,Novelty Shop,,Greenback,TN,Tennessee,United States,North America,Americas,Northern America
+840,Rodrigo Figueiredo,(803) 555-0100,(803) 555-0101,Novelty Shop,,Blackville,SC,South Carolina,United States,North America,Americas,Northern America
+841,Camille Authier,(252) 555-0100,(252) 555-0101,Gift Store,,Abbottsburg,NC,North Carolina,United States,North America,Americas,Northern America
+842,Biju Deb,(218) 555-0100,(218) 555-0101,Gift Store,,Deer River,MN,Minnesota,United States,North America,Americas,Northern America
+843,Marija Justina Pasek,(215) 555-0100,(215) 555-0101,Corporate,,Marguerite,PA,Pennsylvania,United States,North America,Americas,Northern America
+844,Durdanah Abbasi,(201) 555-0100,(201) 555-0101,Supermarket,,Laurence Harbor,NJ,New Jersey,United States,North America,Americas,Northern America
+845,Emilie Hrdlickova,(803) 555-0100,(803) 555-0101,Corporate,,New Zion,SC,South Carolina,United States,North America,Americas,Northern America
+846,Malorie Bousquet,(209) 555-0100,(209) 555-0101,Gift Store,,Valley View Park,CA,California,United States,North America,Americas,Northern America
+847,Kristiina Ivanov,(605) 555-0100,(605) 555-0101,Computer Store,,Wounded Knee,SD,South Dakota,United States,North America,Americas,Northern America
+848,Alvin Bollinger,(270) 555-0100,(270) 555-0101,Computer Store,,Creelsboro,KY,Kentucky,United States,North America,Americas,Northern America
+849,Sabine Zalite,(210) 555-0100,(210) 555-0101,Supermarket,,Haltom City,TX,Texas,United States,North America,Americas,Northern America
+850,Daakshaayaani Sankaramanchi,(319) 555-0100,(319) 555-0101,Gift Store,,Spillville,IA,Iowa,United States,North America,Americas,Northern America
+851,Ebru Erdogan,(405) 555-0100,(405) 555-0101,Gift Store,,Seiling,OK,Oklahoma,United States,North America,Americas,Northern America
+852,Bhagavaan Atluri,(229) 555-0100,(229) 555-0101,Supermarket,,Coosa,GA,Georgia,United States,North America,Americas,Northern America
+853,Caterina Pinto,(907) 555-0100,(907) 555-0101,Gift Store,,Akhiok,AK,Alaska,United States,North America,Americas,Northern America
+854,Daakshaayaani Kommineni,(239) 555-0100,(239) 555-0101,Novelty Shop,,Bakers Mill,FL,Florida,United States,North America,Americas,Northern America
+855,Anna Mazzanti,(314) 555-0100,(314) 555-0101,Computer Store,,Humansville,MO,Missouri,United States,North America,Americas,Northern America
+856,Satish Mittal,(215) 555-0100,(215) 555-0101,Corporate,,Dry Run,PA,Pennsylvania,United States,North America,Americas,Northern America
+857,Clarissa Manfrin,(210) 555-0100,(210) 555-0101,Gift Store,,Ben Arnold,TX,Texas,United States,North America,Americas,Northern America
+858,Bimla PrabhupƒÅda,(209) 555-0100,(209) 555-0101,Novelty Shop,,Yermo,CA,California,United States,North America,Americas,Northern America
+859,Shah Alizadeh,(304) 555-0100,(304) 555-0101,Gift Store,,Gassaway,WV,West Virginia,United States,North America,Americas,Northern America
+860,Marcela Lucescu,(231) 555-0100,(231) 555-0101,Corporate,,Ewen,MI,Michigan,United States,North America,Americas,Northern America
+861,Amarasimha Vinjamuri,(339) 555-0100,(339) 555-0101,Supermarket,,North Brookfield,MA,Massachusetts[E],United States,North America,Americas,Northern America
+862,Lana Goransson,(212) 555-0100,(212) 555-0101,Supermarket,,Chateaugay,NY,New York,United States,North America,Americas,Northern America
+863,Jakub Lukes,(212) 555-0100,(212) 555-0101,Corporate,,Eagle Valley,NY,New York,United States,North America,Americas,Northern America
+864,Mikhail Degtyarev,(218) 555-0100,(218) 555-0101,Computer Store,,Beaver Bay,MN,Minnesota,United States,North America,Americas,Northern America
+865,Bijoya Thakur,(225) 555-0100,(225) 555-0101,Gift Store,,Kinder,LA,Louisiana,United States,North America,Americas,Northern America
+866,Jay Bhuiyan,(215) 555-0100,(215) 555-0101,Gift Store,,Mount Pocono,PA,Pennsylvania,United States,North America,Americas,Northern America
+867,Jasna Cerkez,(304) 555-0100,(304) 555-0101,Computer Store,,Elk Garden,WV,West Virginia,United States,North America,Americas,Northern America
+868,Laura Sykorova,(316) 555-0100,(316) 555-0101,Novelty Shop,,Coyville,KS,Kansas,United States,North America,Americas,Northern America
+869,Abel Tatarescu,(217) 555-0100,(217) 555-0101,Novelty Shop,,La Grange Park,IL,Illinois,United States,North America,Americas,Northern America
+870,In-Su Bae,(206) 555-0100,(206) 555-0101,Gift Store,,Meadowdale,WA,Washington,United States,North America,Americas,Northern America
+871,Darshana Madhunapantula,(240) 555-0100,(240) 555-0101,Computer Store,,Tolchester Beach,MD,Maryland,United States,North America,Americas,Northern America
+872,Katerina Hadrabova,(219) 555-0100,(219) 555-0101,Corporate,,La Paz,IN,Indiana,United States,North America,Americas,Northern America
+873,Hana Hlouskova,(505) 555-0100,(505) 555-0101,Supermarket,,Moquino,NM,New Mexico,United States,North America,Americas,Northern America
+874,Daniel Martensson,(225) 555-0100,(225) 555-0101,Novelty Shop,,Mamou,LA,Louisiana,United States,North America,Americas,Northern America
+875,Philip Walker,(216) 555-0100,(216) 555-0101,Novelty Shop,,Waite Hill,OH,Ohio,United States,North America,Americas,Northern America
+876,Marie LeBatelier,(210) 555-0100,(210) 555-0101,Novelty Shop,,Coupland,TX,Texas,United States,North America,Americas,Northern America
+877,Leyla Siavashi,(201) 555-0100,(201) 555-0101,Gift Store,,Marcella,NJ,New Jersey,United States,North America,Americas,Northern America
+878,Miriam House,(701) 555-0100,(701) 555-0101,Corporate,,Makoti,ND,North Dakota,United States,North America,Americas,Northern America
+879,Jitka Necesana,(212) 555-0100,(212) 555-0101,Computer Store,,Conesus Lake,NY,New York,United States,North America,Americas,Northern America
+880,Edmee Glissen,(208) 555-0100,(208) 555-0101,Computer Store,,McCammon,ID,Idaho,United States,North America,Americas,Northern America
+881,Magdalena Michnova,(907) 555-0100,(907) 555-0101,Computer Store,,Wrangell,AK,Alaska,United States,North America,Americas,Northern America
+882,Maryann Huddleston,(304) 555-0100,(304) 555-0101,Gift Store,,Robertsburg,WV,West Virginia,United States,North America,Americas,Northern America
+883,Radha Barua,(405) 555-0100,(405) 555-0101,Gift Store,,McQueen,OK,Oklahoma,United States,North America,Americas,Northern America
+884,Anindya Ghatak,(219) 555-0100,(219) 555-0101,Computer Store,,Switz City,IN,Indiana,United States,North America,Americas,Northern America
+885,Chandrashekhar Dasgupta,(208) 555-0100,(208) 555-0101,Corporate,,New Plymouth,ID,Idaho,United States,North America,Americas,Northern America
+886,Debbie Molina,(270) 555-0100,(270) 555-0101,Supermarket,,Garlin,KY,Kentucky,United States,North America,Americas,Northern America
+887,Baran Jonsson,(458) 555-0100,(458) 555-0101,Supermarket,,Cave Junction,OR,Oregon,United States,North America,Americas,Northern America
+888,Jai Lamble,(479) 555-0100,(479) 555-0101,Corporate,,Grider,AR,Arkansas,United States,North America,Americas,Northern America
+889,Sointu Savonheimo,(701) 555-0100,(701) 555-0101,Gift Store,,Argusville,ND,North Dakota,United States,North America,Americas,Northern America
+890,Olya Izmaylov,(210) 555-0100,(210) 555-0101,Computer Store,,Flowella,TX,Texas,United States,North America,Americas,Northern America
+891,Taneli Riutta,(276) 555-0100,(276) 555-0101,Supermarket,,Sandy Level,VA,Virginia,United States,North America,Americas,Northern America
+892,Bahaar Asef zade,(225) 555-0100,(225) 555-0101,Supermarket,,Alden Bridge,LA,Louisiana,United States,North America,Americas,Northern America
+893,Leyla Asef zade,(216) 555-0100,(216) 555-0101,Novelty Shop,,West Elkton,OH,Ohio,United States,North America,Americas,Northern America
+894,Gabriela Hernandes,(239) 555-0100,(239) 555-0101,Corporate,,Cypress Quarters,FL,Florida,United States,North America,Americas,Northern America
+895,Geza Roman,(215) 555-0100,(215) 555-0101,Corporate,,Oval,PA,Pennsylvania,United States,North America,Americas,Northern America
+896,Leonardo Folliero,(339) 555-0100,(339) 555-0101,Supermarket,,Cotuit,MA,Massachusetts[E],United States,North America,Americas,Northern America
+897,Allan Mannik,(218) 555-0100,(218) 555-0101,Corporate,,Lake Crystal,MN,Minnesota,United States,North America,Americas,Northern America
+898,Gopalgobinda Sikdar,(307) 555-0100,(307) 555-0101,Computer Store,,Orpha,WY,Wyoming,United States,North America,Americas,Northern America
+899,Chin-Sun Chang,(605) 555-0100,(605) 555-0101,Corporate,,Capa,SD,South Dakota,United States,North America,Americas,Northern America
+900,Lilli Sokk,(229) 555-0100,(229) 555-0101,Gift Store,,Gresston,GA,Georgia,United States,North America,Americas,Northern America
+901,Adrian Andreasson,(217) 555-0100,(217) 555-0101,Corporate,,Du Quoin,IL,Illinois,United States,North America,Americas,Northern America
+902,Kamila Michnova,(210) 555-0100,(210) 555-0101,Supermarket,,The Colony,TX,Texas,United States,North America,Americas,Northern America
+903,Bing Han,(228) 555-0100,(228) 555-0101,Computer Store,,Darling,MS,Mississippi,United States,North America,Americas,Northern America
+904,Olafs Rozitis,(316) 555-0100,(316) 555-0101,Corporate,,Sherwin,KS,Kansas,United States,North America,Americas,Northern America
+905,Sara Huiting,(218) 555-0100,(218) 555-0101,Supermarket,,Bock,MN,Minnesota,United States,North America,Americas,Northern America
+906,Ajitaab Pakalapati,(209) 555-0100,(209) 555-0101,Computer Store,,Caruthers,CA,California,United States,North America,Americas,Northern America
+907,Eugen Agafitei,(252) 555-0100,(252) 555-0101,Supermarket,,Shawboro,NC,North Carolina,United States,North America,Americas,Northern America
+908,Sumati Bhat,(206) 555-0100,(206) 555-0101,Novelty Shop,,Harbour Pointe,WA,Washington,United States,North America,Americas,Northern America
+909,Dena Glissen,(316) 555-0100,(316) 555-0101,Supermarket,,Coffeyville,KS,Kansas,United States,North America,Americas,Northern America
+910,Elina Kaleja,(225) 555-0100,(225) 555-0101,Gift Store,,Golden Meadow,LA,Louisiana,United States,North America,Americas,Northern America
+911,Liidia Lepp,(276) 555-0100,(276) 555-0101,Gift Store,,Oakpark,VA,Virginia,United States,North America,Americas,Northern America
+912,Volkan senturk,(276) 555-0100,(276) 555-0101,Computer Store,,Wyndham,VA,Virginia,United States,North America,Americas,Northern America
+913,Violetta KlanCisar,(225) 555-0100,(225) 555-0101,Supermarket,,Bayou Cane,LA,Louisiana,United States,North America,Americas,Northern America
+914,Chandana Shasthri,(803) 555-0100,(803) 555-0101,Supermarket,,Nesmith,SC,South Carolina,United States,North America,Americas,Northern America
+915,Ana Florea,(210) 555-0100,(210) 555-0101,Corporate,,Buchanan Lake Village,TX,Texas,United States,North America,Americas,Northern America
+916,Pinja Jantunen,(308) 555-0100,(308) 555-0101,Gift Store,,Nehawka,NE,Nebraska,United States,North America,Americas,Northern America
+917,Pari Hosseini,(505) 555-0100,(505) 555-0101,Novelty Shop,,Soham,NM,New Mexico,United States,North America,Americas,Northern America
+918,Isidora Morales,(406) 555-0100,(406) 555-0101,Novelty Shop,,Twodot,MT,Montana,United States,North America,Americas,Northern America
+919,Kertu Sokk,(212) 555-0100,(212) 555-0101,Computer Store,,Greig,NY,New York,United States,North America,Americas,Northern America
+920,Gayatri Gajula,(212) 555-0100,(212) 555-0101,Computer Store,,Shenorock,NY,New York,United States,North America,Americas,Northern America
+921,Victoria Lacusta,(212) 555-0100,(212) 555-0101,Supermarket,,Conewango,NY,New York,United States,North America,Americas,Northern America
+922,Sumati Chatterjee,(231) 555-0100,(231) 555-0101,Gift Store,,North Muskegon,MI,Michigan,United States,North America,Americas,Northern America
+923,Tai Bach,(219) 555-0100,(219) 555-0101,Novelty Shop,,Fortville,IN,Indiana,United States,North America,Americas,Northern America
+924,Eva Schulteisz,(252) 555-0100,(252) 555-0101,Novelty Shop,,Hightsville,NC,North Carolina,United States,North America,Americas,Northern America
+925,Can ozcan,(215) 555-0100,(215) 555-0101,Corporate,,Oley,PA,Pennsylvania,United States,North America,Americas,Northern America
+926,Richard Friar,(339) 555-0100,(339) 555-0101,Corporate,,North Eastham,MA,Massachusetts[E],United States,North America,Americas,Northern America
+927,Matyas Sedlar,(270) 555-0100,(270) 555-0101,Novelty Shop,,Calvert City,KY,Kentucky,United States,North America,Americas,Northern America
+928,Arijit Bhuiyan,(212) 555-0100,(212) 555-0101,Computer Store,,Esopus,NY,New York,United States,North America,Americas,Northern America
+929,Vladimir Henzl,(907) 555-0100,(907) 555-0101,Supermarket,,Port Chilkoot,AK,Alaska,United States,North America,Americas,Northern America
+930,Shantanu Huq,(252) 555-0100,(252) 555-0101,Gift Store,,Cramerton,NC,North Carolina,United States,North America,Americas,Northern America
+931,Nada Jovanovic,(215) 555-0100,(215) 555-0101,Corporate,,North York,PA,Pennsylvania,United States,North America,Americas,Northern America
+932,Nicolo Cattaneo,(212) 555-0100,(212) 555-0101,Corporate,,Schoharie,NY,New York,United States,North America,Americas,Northern America
+933,Joel Carrillo,(405) 555-0100,(405) 555-0101,Computer Store,,Drumright,OK,Oklahoma,United States,North America,Americas,Northern America
+934,Ivan Sepulveda,(218) 555-0100,(218) 555-0101,Novelty Shop,,Northrop,MN,Minnesota,United States,North America,Americas,Northern America
+935,Daevasree Samavedam,(201) 555-0100,(201) 555-0101,Corporate,,Golf View,NJ,New Jersey,United States,North America,Americas,Northern America
+936,Ludmila Smidova,(480) 555-0100,(480) 555-0101,Novelty Shop,,Tempe,AZ,Arizona,United States,North America,Americas,Northern America
+937,Manca Hrastovsek,(205) 555-0100,(205) 555-0101,Gift Store,,Southside,AL,Alabama,United States,North America,Americas,Northern America
+938,Anna Gyarmathi,(252) 555-0100,(252) 555-0101,Novelty Shop,,Kannapolis,NC,North Carolina,United States,North America,Americas,Northern America
+939,Ioana Florea,(339) 555-0100,(339) 555-0101,Supermarket,,Nahant,MA,Massachusetts[E],United States,North America,Americas,Northern America
+940,Lorin Astrom,(210) 555-0100,(210) 555-0101,Gift Store,,Port Alto,TX,Texas,United States,North America,Americas,Northern America
+941,Bishwa Chatterjee,(239) 555-0100,(239) 555-0101,Novelty Shop,,Lake Clarke Shores,FL,Florida,United States,North America,Americas,Northern America
+942,Chaayaadaevi Sonti,(217) 555-0100,(217) 555-0101,Corporate,,Roachtown,IL,Illinois,United States,North America,Americas,Northern America
+943,Drazenka Jelic,(803) 555-0100,(803) 555-0101,Novelty Shop,,Cherry Grove Beach,SC,South Carolina,United States,North America,Americas,Northern America
+944,Ida Celma,(319) 555-0100,(319) 555-0101,Novelty Shop,,Hawarden,IA,Iowa,United States,North America,Americas,Northern America
+945,Hoc Tran,(339) 555-0100,(339) 555-0101,Computer Store,,White Horse Beach,MA,Massachusetts[E],United States,North America,Americas,Northern America
+946,David safranek,(215) 555-0100,(215) 555-0101,Supermarket,,Toughkenamon,PA,Pennsylvania,United States,North America,Americas,Northern America
+947,Svetlana Todorovic,(206) 555-0100,(206) 555-0101,Supermarket,,Venersborg,WA,Washington,United States,North America,Americas,Northern America
+948,Richard Zahradnicek,(314) 555-0100,(314) 555-0101,Supermarket,,Jane,MO,Missouri,United States,North America,Americas,Northern America
+949,Seo-yun Paik,(210) 555-0100,(210) 555-0101,Corporate,,Jones Creek,TX,Texas,United States,North America,Americas,Northern America
+950,Emily Whittle,(231) 555-0100,(231) 555-0101,Corporate,,Huntington Woods,MI,Michigan,United States,North America,Americas,Northern America
+951,Eliza Persson,(209) 555-0100,(209) 555-0101,Supermarket,,Jesmond Dene,CA,California,United States,North America,Americas,Northern America
+952,Chuan Wattanasin,(217) 555-0100,(217) 555-0101,Novelty Shop,,Flanagan,IL,Illinois,United States,North America,Americas,Northern America
+953,Linh Dao,(228) 555-0100,(228) 555-0101,Supermarket,,Mashulaville,MS,Mississippi,United States,North America,Americas,Northern America
+954,Nasrin Omidzadeh,(239) 555-0100,(239) 555-0101,Supermarket,,Mary Esther,FL,Florida,United States,North America,Americas,Northern America
+955,Raghu Sandhu,(240) 555-0100,(240) 555-0101,Novelty Shop,,Bowleys Quarters,MD,Maryland,United States,North America,Americas,Northern America
+956,Nhung Thach,(480) 555-0100,(480) 555-0101,Computer Store,,Red Mesa,AZ,Arizona,United States,North America,Americas,Northern America
+957,Hee-Young Suh,(209) 555-0100,(209) 555-0101,Novelty Shop,,Nicasio,CA,California,United States,North America,Americas,Northern America
+958,Valentin Tirlea,(210) 555-0100,(210) 555-0101,Gift Store,,Pharr,TX,Texas,United States,North America,Americas,Northern America
+959,Dhaatri Chavva,(207) 555-0100,(207) 555-0101,Novelty Shop,,Edgecomb,ME,Maine,United States,North America,Americas,Northern America
+960,Edgar Jogi,(209) 555-0100,(209) 555-0101,Computer Store,,Bombay Beach,CA,California,United States,North America,Americas,Northern America
+961,Rani Ganguly,(209) 555-0100,(209) 555-0101,Gift Store,,Arrowhead Highlands,CA,California,United States,North America,Americas,Northern America
+962,Bhagavati Vinjamuri,(319) 555-0100,(319) 555-0101,Supermarket,,Ewart,IA,Iowa,United States,North America,Americas,Northern America
+963,Be Trang,(405) 555-0100,(405) 555-0101,Corporate,,Watonga,OK,Oklahoma,United States,North America,Americas,Northern America
+964,Ingrida Zeltina,(239) 555-0100,(239) 555-0101,Supermarket,,Trilby,FL,Florida,United States,North America,Americas,Northern America
+965,Phoung Cu,(208) 555-0100,(208) 555-0101,Corporate,,McCall,ID,Idaho,United States,North America,Americas,Northern America
+966,Sara Walkky,(303) 555-0100,(303) 555-0101,Supermarket,,Chipita Park,CO,Colorado,United States,North America,Americas,Northern America
+967,Meera Patel,(217) 555-0100,(217) 555-0101,Gift Store,,Hanaford,IL,Illinois,United States,North America,Americas,Northern America
+968,Anca Gogean,(209) 555-0100,(209) 555-0101,Corporate,,Arrowbear Lake,CA,California,United States,North America,Americas,Northern America
+969,Staffan Persson,(314) 555-0100,(314) 555-0101,Computer Store,,Phelps City,MO,Missouri,United States,North America,Americas,Northern America
+970,Isidora Urias,(239) 555-0100,(239) 555-0101,Novelty Shop,,Bratt,FL,Florida,United States,North America,Americas,Northern America
+971,Dhanishta Mokkapati,(907) 555-0100,(907) 555-0101,Corporate,,Iliamna,AK,Alaska,United States,North America,Americas,Northern America
+972,Lakshmi Benipal,(209) 555-0100,(209) 555-0101,Computer Store,,Lompoc,CA,California,United States,North America,Americas,Northern America
+973,Kumar Kamei,(304) 555-0100,(304) 555-0101,Novelty Shop,,Middleway,WV,West Virginia,United States,North America,Americas,Northern America
+974,Emil Roman,(210) 555-0100,(210) 555-0101,Computer Store,,Kopperl,TX,Texas,United States,North America,Americas,Northern America
+975,Prabodh Nair,(605) 555-0100,(605) 555-0101,Novelty Shop,,Tschetter Colony,SD,South Dakota,United States,North America,Americas,Northern America
+976,Alinne Matos,(229) 555-0100,(229) 555-0101,Computer Store,,Sea Island,GA,Georgia,United States,North America,Americas,Northern America
+977,Mauno Laurila,(216) 555-0100,(216) 555-0101,Novelty Shop,,North Eaton,OH,Ohio,United States,North America,Americas,Northern America
+978,Baalaamjali Devulapalli,(505) 555-0100,(505) 555-0101,Supermarket,,Puerto de Luna,NM,New Mexico,United States,North America,Americas,Northern America
+979,Melani Ravlen,(405) 555-0100,(405) 555-0101,Corporate,,Cookietown,OK,Oklahoma,United States,North America,Americas,Northern America
+980,Om Yadav,(262) 555-0100,(262) 555-0101,Novelty Shop,,Lunds,WI,Wisconsin,United States,North America,Americas,Northern America
+981,Mahmut ozbek,(339) 555-0100,(339) 555-0101,Gift Store,,Bernardston,MA,Massachusetts[E],United States,North America,Americas,Northern America
+982,Yves Belisle,(480) 555-0100,(480) 555-0101,Supermarket,,Walapai,AZ,Arizona,United States,North America,Americas,Northern America
+983,Sabine Alksne,(479) 555-0100,(479) 555-0101,Supermarket,,Grannis,AR,Arkansas,United States,North America,Americas,Northern America
+984,Kamala Nishad,(201) 555-0100,(201) 555-0101,Corporate,,Haddon Heights,NJ,New Jersey,United States,North America,Americas,Northern America
+985,Roko Ilic,(262) 555-0100,(262) 555-0101,Corporate,,Grantsburg,WI,Wisconsin,United States,North America,Americas,Northern America
+986,Neil Farrelly,(215) 555-0100,(215) 555-0101,Novelty Shop,,Sabinsville,PA,Pennsylvania,United States,North America,Americas,Northern America
+987,Akhil Nadar,(479) 555-0100,(479) 555-0101,Supermarket,,Schaal,AR,Arkansas,United States,North America,Americas,Northern America
+988,Maksims Krastins,(304) 555-0100,(304) 555-0101,Gift Store,,Lorentz,WV,West Virginia,United States,North America,Americas,Northern America
+989,Milinka Zujovic,(316) 555-0100,(316) 555-0101,Gift Store,,Zurich,KS,Kansas,United States,North America,Americas,Northern America
+990,Andris Saulitis,(210) 555-0100,(210) 555-0101,Corporate,,El Refugio,TX,Texas,United States,North America,Americas,Northern America
+991,Valter Viiding,(216) 555-0100,(216) 555-0101,Supermarket,,Cuyahoga Heights,OH,Ohio,United States,North America,Americas,Northern America
+992,Amarakumaar Gadiyaram,(303) 555-0100,(303) 555-0101,Novelty Shop,,Vollmar,CO,Colorado,United States,North America,Americas,Northern America
+993,Gasper Havzija,(314) 555-0100,(314) 555-0101,Gift Store,,Shell Knob,MO,Missouri,United States,North America,Americas,Northern America
+994,Libuse Kuchtova,(210) 555-0100,(210) 555-0101,Supermarket,,Van Alstyne,TX,Texas,United States,North America,Americas,Northern America
+995,Kumar Naicker,(262) 555-0100,(262) 555-0101,Novelty Shop,,Oconto Falls,WI,Wisconsin,United States,North America,Americas,Northern America
+996,Laszlo Gardenier,(215) 555-0100,(215) 555-0101,Gift Store,,Marion Hill,PA,Pennsylvania,United States,North America,Americas,Northern America
+997,Nada Ana Slosar,(239) 555-0100,(239) 555-0101,Supermarket,,Cloud Lake,FL,Florida,United States,North America,Americas,Northern America
+998,Mahavir Sonkar,(505) 555-0100,(505) 555-0101,Computer Store,,Pastura,NM,New Mexico,United States,North America,Americas,Northern America
+999,Kristi Part,(702) 555-0100,(702) 555-0101,Supermarket,,Yerington,NV,Nevada,United States,North America,Americas,Northern America
+1000,Krishnam Allu,(405) 555-0100,(405) 555-0101,Novelty Shop,,Catesby,OK,Oklahoma,United States,North America,Americas,Northern America
+1001,Dinh Mai,(210) 555-0100,(210) 555-0101,Computer Store,,Dorchester,TX,Texas,United States,North America,Americas,Northern America
+1002,Stefan Selezeanu,(212) 555-0100,(212) 555-0101,Computer Store,,Copake,NY,New York,United States,North America,Americas,Northern America
+1003,Hue Ton,(252) 555-0100,(252) 555-0101,Supermarket,,Holden Beach,NC,North Carolina,United States,North America,Americas,Northern America
+1004,Drishti Bose,(479) 555-0100,(479) 555-0101,Gift Store,,Wesson,AR,Arkansas,United States,North America,Americas,Northern America
+1005,Bhadram Kamasamudram,(802) 555-0100,(802) 555-0101,Novelty Shop,,Wells,VT,Vermont,United States,North America,Americas,Northern America
+1006,Taj Syme,(216) 555-0100,(216) 555-0101,Novelty Shop,,Oakshade,OH,Ohio,United States,North America,Americas,Northern America
+1007,Irma Berzina,(458) 555-0100,(458) 555-0101,Corporate,,Newberg,OR,Oregon,United States,North America,Americas,Northern America
+1008,Vedrana Kovacevic,(479) 555-0100,(479) 555-0101,Novelty Shop,,Reader,AR,Arkansas,United States,North America,Americas,Northern America
+1009,Bhagavateeprasaad Malladi,(479) 555-0100,(479) 555-0101,Computer Store,,Greenfield,AR,Arkansas,United States,North America,Americas,Northern America
+1010,Serdar ozCelik,(210) 555-0100,(210) 555-0101,Supermarket,,Dawn,TX,Texas,United States,North America,Americas,Northern America
+1011,Rajeev Sandhu,(458) 555-0100,(458) 555-0101,Gift Store,,Wasco,OR,Oregon,United States,North America,Americas,Northern America
+1012,Urve Kasesalu,(319) 555-0100,(319) 555-0101,Corporate,,Cherokee,IA,Iowa,United States,North America,Americas,Northern America
+1013,Annette  Hetu,(405) 555-0100,(405) 555-0101,Computer Store,,Hanna,OK,Oklahoma,United States,North America,Americas,Northern America
+1014,Narendra Tickoo,(803) 555-0100,(803) 555-0101,Novelty Shop,,Dillon,SC,South Carolina,United States,North America,Americas,Northern America
+1015,Isa Hulsegge,(252) 555-0100,(252) 555-0101,Computer Store,,Saxapahaw,NC,North Carolina,United States,North America,Americas,Northern America
+1016,Aive Petrov,(316) 555-0100,(316) 555-0101,Supermarket,,Virgil,KS,Kansas,United States,North America,Americas,Northern America
+1017,David Novacek ,(423) 555-0100,(423) 555-0101,Gift Store,,Corryton,TN,Tennessee,United States,North America,Americas,Northern America
+1018,Nils Kaulins,(406) 555-0100,(406) 555-0101,Computer Store,,Greycliff,MT,Montana,United States,North America,Americas,Northern America
+1019,Dhanishta Pullela,(304) 555-0100,(304) 555-0101,Novelty Shop,,Gallipolis Ferry,WV,West Virginia,United States,North America,Americas,Northern America
+1020,Hai Banh,(252) 555-0100,(252) 555-0101,Computer Store,,Claremont,NC,North Carolina,United States,North America,Americas,Northern America
+1021,Fabrice Cloutier,(252) 555-0100,(252) 555-0101,Supermarket,,Staley,NC,North Carolina,United States,North America,Americas,Northern America
+1022,Nadir Seddigh,(907) 555-0100,(907) 555-0101,Computer Store,,Biorka,AK,Alaska,United States,North America,Americas,Northern America
+1023,Farzana Habibi,(219) 555-0100,(219) 555-0101,Corporate,,Brookville,IN,Indiana,United States,North America,Americas,Northern America
+1024,Arka Chatterjee,(303) 555-0100,(303) 555-0101,Supermarket,,Byers,CO,Colorado,United States,North America,Americas,Northern America
+1025,Tuulikki Linna,(217) 555-0100,(217) 555-0101,Gift Store,,Otterville,IL,Illinois,United States,North America,Americas,Northern America
+1026,Daniella Cavalcante,(405) 555-0100,(405) 555-0101,Computer Store,,Ravia,OK,Oklahoma,United States,North America,Americas,Northern America
+1027,Serdar ozden,(319) 555-0100,(319) 555-0101,Corporate,,Richland,IA,Iowa,United States,North America,Americas,Northern America
+1028,Emma Van Zant,(303) 555-0100,(303) 555-0101,Gift Store,,Wray,CO,Colorado,United States,North America,Americas,Northern America
+1029,Veronika Necesana,(218) 555-0100,(218) 555-0101,Novelty Shop,,Dover,MN,Minnesota,United States,North America,Americas,Northern America
+1030,Chompoo Atitarn,(603) 555-0100,(603) 555-0101,Computer Store,,Ashland,NH,New Hampshire,United States,North America,Americas,Northern America
+1031,Dipti Shah,(216) 555-0100,(216) 555-0101,Gift Store,,Scioto Furnace,OH,Ohio,United States,North America,Americas,Northern America
+1032,Som Mukherjee,(385) 555-0100,(385) 555-0101,Novelty Shop,,Moroni,UT,Utah,United States,North America,Americas,Northern America
+1033,Cuneyt Arslan,(405) 555-0100,(405) 555-0101,Supermarket,,Komalty,OK,Oklahoma,United States,North America,Americas,Northern America
+1034,Aishwarya Dantuluri,(209) 555-0100,(209) 555-0101,Novelty Shop,,Biggs,CA,California,United States,North America,Americas,Northern America
+1035,Manjunatha Karnik,(405) 555-0100,(405) 555-0101,Computer Store,,Wright City,OK,Oklahoma,United States,North America,Americas,Northern America
+1036,Erik Malk,(406) 555-0100,(406) 555-0101,Computer Store,,Basin,MT,Montana,United States,North America,Americas,Northern America
+1037,David Jaramillo,(803) 555-0100,(803) 555-0101,Corporate,,Ridgeway,SC,South Carolina,United States,North America,Americas,Northern America
+1038,Damodara Trivedi,(210) 555-0100,(210) 555-0101,Gift Store,,Tarzan,TX,Texas,United States,North America,Americas,Northern America
+1039,Bhaamini Palagummi,(212) 555-0100,(212) 555-0101,Gift Store,,Lake Mohegan,NY,New York,United States,North America,Americas,Northern America
+1040,Damodar Shenoy,(229) 555-0100,(229) 555-0101,Novelty Shop,,Scott,GA,Georgia,United States,North America,Americas,Northern America
+1041,Tomo Vidovic,(207) 555-0100,(207) 555-0101,Supermarket,,Tremont,ME,Maine,United States,North America,Americas,Northern America
+1042,Nguyen Banh,(239) 555-0100,(239) 555-0101,Novelty Shop,,Florahome,FL,Florida,United States,North America,Americas,Northern America
+1043,Raj Verma,(203) 555-0100,(203) 555-0101,Corporate,,Colebrook,CT,Connecticut,United States,North America,Americas,Northern America
+1044,Hanita Nookala,(225) 555-0100,(225) 555-0101,Novelty Shop,,Meaux,LA,Louisiana,United States,North America,Americas,Northern America
+1045,Matteo Cattaneo,(229) 555-0100,(229) 555-0101,Supermarket,,Nicholson,GA,Georgia,United States,North America,Americas,Northern America
+1046,Christian Couet,(212) 555-0100,(212) 555-0101,Computer Store,,Great Neck,NY,New York,United States,North America,Americas,Northern America
+1047,Ivana Hadrabova,(603) 555-0100,(603) 555-0101,Computer Store,,Lancaster,NH,New Hampshire,United States,North America,Americas,Northern America
+1048,Abhra Ganguly,(212) 555-0100,(212) 555-0101,Gift Store,,Walker Valley,NY,New York,United States,North America,Americas,Northern America
+1049,Amet Shergill,(303) 555-0100,(303) 555-0101,Corporate,,Yampa,CO,Colorado,United States,North America,Americas,Northern America
+1050,Amrita Ganguly,(787) 555-0100,(787) 555-0101,Supermarket,,Palmas del Mar,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+1051,Sylvie Laramee,(787) 555-0100,(787) 555-0101,Gift Store,,Isabela,PR,Puerto Rico (US Territory),United States,North America,Americas,Northern America
+1052,Ian Olofsson,(339) 555-0100,(339) 555-0101,Supermarket,,Liberty Plain,MA,Massachusetts[E],United States,North America,Americas,Northern America
+1053,Luis Saucedo,(210) 555-0100,(210) 555-0101,Computer Store,,Linden,TX,Texas,United States,North America,Americas,Northern America
+1054,Emma Salpa,(205) 555-0100,(205) 555-0101,Supermarket,,Rogersville,AL,Alabama,United States,North America,Americas,Northern America
+1055,Adriana Pena,(252) 555-0100,(252) 555-0101,Computer Store,,Roberta Mill,NC,North Carolina,United States,North America,Americas,Northern America
+1056,Kalyani Benjaree,(212) 555-0100,(212) 555-0101,Corporate,,Bowmansville,NY,New York,United States,North America,Americas,Northern America
+1057,Ganesh Majumdar,(217) 555-0100,(217) 555-0101,Computer Store,,Orland Hills,IL,Illinois,United States,North America,Americas,Northern America
+1058,Jaroslav Fisar,(215) 555-0100,(215) 555-0101,Gift Store,,Sigel,PA,Pennsylvania,United States,North America,Americas,Northern America
+1059,Jibek Juniskyzy,(217) 555-0100,(217) 555-0101,Supermarket,,Ellisville,IL,Illinois,United States,North America,Americas,Northern America
+1060,Anand Mudaliyar,(206) 555-0100,(206) 555-0101,Corporate,,Midland,WA,Washington,United States,North America,Americas,Northern America
+1061,Agrita Abele,(206) 555-0100,(206) 555-0101,Computer Store,,Long Beach,WA,Washington,United States,North America,Americas,Northern America
