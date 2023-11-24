@@ -1,8 +1,9 @@
 # Diagrams
 
-The design of the Data Warehouse was drawn in an information package and star schema : with respective attributes.
+The design of the Data Warehouse was drawn in an information package and star schema with respective attributes :
 
-(+) Dimensions
+
+> Dimensions
 
   (-) Date Dimension : represent customer purchase dates
   
@@ -13,7 +14,7 @@ The design of the Data Warehouse was drawn in an information package and star sc
   (-) Salesperson Dimension : represent salesperson(s) that makes the transaction happen.
   
 
-(+) Facts
+> Facts
 
   (-) UnitPrice : price of a single product unit
   
