@@ -34,5 +34,8 @@ This project focuses on the seamless implementation of a data warehouse using Ta
 
 3. **Documentation:**
    - Comprehensive documentation covering project objectives, methodologies, and technical details.
+  
+4. **Dashboarding:**
+   - Analytical dashboard of this project can be accessed in https://public.tableau.com/views/WWI_Viz/DashboardWWI?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
 
 ---
