@@ -23,6 +23,23 @@ WITH CUSTOMER_SPENDINGS AS (
 SELECT * 
 FROM CUSTOMER_SPENDINGS;
 
+--AVERAGE PROFIT FROM PRODUCTS
+WITH all_time_avg_profit AS (
+	SELECT	p.ProductName
+			, AVG(s.ProfitAmount) AS avg_profit
+			, RANK() OVER (
+				ORDER BY AVG(s.ProfitAmount) DESC
+			) AS profit_rank
+	FROM dbo.FactSales s
+	LEFT JOIN dbo.DimProduct p
+	ON s.StockItemID = p.ProductID
+	GROUP BY p.ProductName
+)
+
+SELECT *
+FROM all_time_avg_profit
+ORDER BY profit_rank DESC;
+
 --AVERAGE PROFIT PER DAY
 SELECT
    d.Year,
@@ -96,7 +113,7 @@ with salesperson_sells as (
 			, e.SalesPersonName
 			, e.SalesPersonPhoneNumber
 			, e.SalesPersonEmail
-			, count(s.SalespersonPersonID) as salesperson_count
+			, count(s.SalespersonPersonID) as sales_count
 			, rank() over(
 				order by count(s.SalespersonPersonID) desc
 			) as salesperson_rankings
@@ -112,3 +129,39 @@ with salesperson_sells as (
 select *
 from salesperson_sells
 where salesperson_rankings in (1,2,3);
+
+--PRODUCT SALES OVER TIME WITH ROLLUP
+WITH product_sales_over_time AS (
+	SELECT	d.Full_date
+			, p.ProductName
+			, AVG(s.SalesAmount) AS avg_sales
+	FROM dbo.FactSales s
+	LEFT JOIN dbo.DimProduct p
+	ON s.StockItemID = p.ProductID
+	LEFT JOIN dbo.DimDate d
+	ON s.Date_key = d.Date_key
+	GROUP BY ROLLUP(d.Full_date, p.ProductName)
+)
+
+SELECT *
+FROM product_sales_over_time;
+
+
+--COST ANALYSIS (DOES THE PRODUCT WITH THE HIGHEST COST MAKES THE HIGHEST PROFIT?)
+WITH all_sales AS (
+	SELECT	DISTINCT(p.ProductName)
+			, s.UnitCost
+			, s.UnitProfit
+			, DENSE_RANK() OVER (
+				ORDER BY s.UnitProfit DESC
+			) AS profit_rank
+	FROM dbo.FactSales s
+	LEFT JOIN dbo.DimProduct p
+	ON s.StockItemID = p.ProductID
+)
+
+SELECT * 
+FROM all_sales
+ORDER BY UnitCost DESC;
+
+
