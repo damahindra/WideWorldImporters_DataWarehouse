@@ -5,6 +5,7 @@ USE WWI_DW;
 WITH CUSTOMER_SPENDINGS AS (
 	-- SELECT COLUMNS
 	SELECT  c.CustomerID, 
+			d.Full_date,
 			c.CustomerName,
 			c.CustomerCity,
 			c.CustomerCountry,
@@ -18,6 +19,8 @@ WITH CUSTOMER_SPENDINGS AS (
 	ON c.CustomerID = s.CustomerID
 	LEFT JOIN dbo.DimProduct p
 	ON s.StockItemID = p.ProductID
+	LEFT JOIN dbo.DimDate d
+	ON s.Date_key = d.Date_key
 )
 
 SELECT * 
@@ -26,7 +29,7 @@ FROM CUSTOMER_SPENDINGS;
 --AVERAGE PROFIT FROM PRODUCTS
 WITH all_time_avg_profit AS (
 	SELECT	p.ProductName
-			, AVG(s.ProfitAmount) AS avg_profit
+			, SUM(s.ProfitAmount) AS avg_profit
 			, RANK() OVER (
 				ORDER BY AVG(s.ProfitAmount) DESC
 			) AS profit_rank
@@ -38,23 +41,25 @@ WITH all_time_avg_profit AS (
 
 SELECT *
 FROM all_time_avg_profit
-ORDER BY profit_rank DESC;
+ORDER BY profit_rank;
 
 --AVERAGE PROFIT PER DAY
 SELECT
    d.Year,
    d.Month,
-   d.Day,
-   AVG(s.ProfitAmount) AS AVG_PROFIT_AMOUNT,
+   p.ProductName,
+   SUM(s.ProfitAmount) AS SUM_PROFIT_AMOUNT,
    DENSE_RANK() OVER(
-	ORDER BY AVG(s.ProfitAmount) DESC
-   ) AS DENSE_RANK_AVG_PROFIT
+	PARTITION BY d.Year,d.Month
+	ORDER BY SUM(s.ProfitAmount) DESC
+   ) AS DENSE_RANK_SUM_PROFIT
    
 FROM dbo.FactSales s
 LEFT JOIN dbo.DimDate d
 ON s.Date_key = d.Date_key
-GROUP BY d.Year, d.Month, d.Day
-ORDER BY d.Year, d.Month, d.Day;
+LEFT JOIN dbo.DimProduct p
+ON s.StockItemID = p.ProductID
+GROUP BY d.Year, d.Month, p.ProductName;
 
 --ROLLING AVERAGE
 SELECT
@@ -134,7 +139,7 @@ where salesperson_rankings in (1,2,3);
 WITH product_sales_over_time AS (
 	SELECT	d.Full_date
 			, p.ProductName
-			, AVG(s.SalesAmount) AS avg_sales
+			, SUM(s.SalesAmount) AS sum_sales
 	FROM dbo.FactSales s
 	LEFT JOIN dbo.DimProduct p
 	ON s.StockItemID = p.ProductID
@@ -164,4 +169,13 @@ SELECT *
 FROM all_sales
 ORDER BY UnitCost DESC;
 
-
+SELECT d.Year,
+		d.Month,
+		d.Day,
+			SUM(s.SalesAmount) AS TOTAL_SALES
+FROM dbo.FactSales s
+LEFT JOIN dbo.DimDate d
+ON s.Date_key = d.Date_key
+GROUP BY CUBE(d.Year,
+		d.Month,
+		d.Day);
